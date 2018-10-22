@@ -1,0 +1,684 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="NBAMetricsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Activity">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="nvarchar" MaxLength="10" Nullable="false" />
+          <Property Name="Atlanta Hawks" Type="bit" />
+          <Property Name="Boston Celtics" Type="bit" />
+          <Property Name="Brooklyn Nets" Type="bit" />
+          <Property Name="Charlotte Hornets" Type="bit" />
+          <Property Name="Chicago Bulls" Type="bit" />
+          <Property Name="Cleveland Cavaliers" Type="bit" />
+          <Property Name="Dallas Mavericks" Type="bit" />
+          <Property Name="Denver Nuggets" Type="bit" />
+          <Property Name="Detroit Pistons" Type="bit" />
+          <Property Name="Golden State Warriors" Type="bit" />
+          <Property Name="Houston Rockets" Type="bit" />
+          <Property Name="Indiana Pacers" Type="bit" />
+          <Property Name="LA Clipers" Type="bit" />
+          <Property Name="Los Angeles Lakers" Type="bit" />
+          <Property Name="Memphis Grizzlies" Type="bit" />
+          <Property Name="Miami Heat" Type="bit" />
+          <Property Name="Milwaukee Bucks" Type="bit" />
+          <Property Name="Minnesota Timberwolves" Type="bit" />
+          <Property Name="New Orleans Pelicans" Type="bit" />
+          <Property Name="New York Knicks" Type="bit" />
+          <Property Name="Oklahoma City Thunder" Type="bit" />
+          <Property Name="Orlando Magic" Type="bit" />
+          <Property Name="Philadelphia 76ers" Type="bit" />
+          <Property Name="Phoenix Suns" Type="bit" />
+          <Property Name="Portland Trail Blazers" Type="bit" />
+          <Property Name="Sacramento Kings" Type="bit" />
+          <Property Name="San Antonio Spurs" Type="bit" />
+          <Property Name="Toronto Raptors" Type="bit" />
+          <Property Name="Utah Jazz" Type="bit" />
+          <Property Name="Washington Wizards" Type="bit" />
+          <Property Name="Anderson Packers" Type="bit" />
+          <Property Name="Baltimore Bullets" Type="bit" />
+          <Property Name="Chicago Stags" Type="bit" />
+          <Property Name="Cleveland Rebels" Type="bit" />
+          <Property Name="Detroit Falcons" Type="bit" />
+          <Property Name="Indianapolis Jets" Type="bit" />
+          <Property Name="Indianapolis Olympians" Type="bit" />
+          <Property Name="Pittsburgh Ironmen" Type="bit" />
+          <Property Name="Providence Steam Rollers" Type="bit" />
+          <Property Name="Sheboygan Red Skins" Type="bit" />
+          <Property Name="St. Louis Bombers" Type="bit" />
+          <Property Name="Toronto Huskies" Type="bit" />
+          <Property Name="Washington Capitols" Type="bit" />
+          <Property Name="Waterloo Hawks" Type="bit" />
+        </EntityType>
+        <EntityType Name="EstimatedRankings">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="nchar" MaxLength="20" Nullable="false" />
+          <Property Name="Atlanta Hawks" Type="int" />
+          <Property Name="Boston Celtics" Type="int" />
+          <Property Name="Brooklyn Nets" Type="int" />
+          <Property Name="Charlotte Hornets" Type="int" />
+          <Property Name="Chicago Bulls" Type="int" />
+          <Property Name="Cleveland Cavaliers" Type="int" />
+          <Property Name="Dallas Mavericks" Type="int" />
+          <Property Name="Denver Nuggets" Type="int" />
+          <Property Name="Detroit Pistons" Type="int" />
+          <Property Name="Golden State Warriors" Type="int" />
+          <Property Name="Houston Rockets" Type="int" />
+          <Property Name="Indiana Pacers" Type="int" />
+          <Property Name="LA Clipers" Type="int" />
+          <Property Name="Los Angeles Lakers" Type="int" />
+          <Property Name="Memphis Grizzlies" Type="int" />
+          <Property Name="Miami Heat" Type="int" />
+          <Property Name="Milwaukee Bucks" Type="int" />
+          <Property Name="Minnesota Timberwolves" Type="int" />
+          <Property Name="New Orleans Pelicans" Type="int" />
+          <Property Name="New York Knicks" Type="int" />
+          <Property Name="Oklahoma City Thunder" Type="int" />
+          <Property Name="Orlando Magic" Type="int" />
+          <Property Name="Philadelphia 76ers" Type="int" />
+          <Property Name="Phoenix Suns" Type="int" />
+          <Property Name="Portland Trail Blazers" Type="int" />
+          <Property Name="Sacramento Kings" Type="int" />
+          <Property Name="San Antonio Spurs" Type="int" />
+          <Property Name="Toronto Raptors" Type="int" />
+          <Property Name="Utah Jazz" Type="int" />
+          <Property Name="Washington Wizards" Type="int" />
+          <Property Name="Anderson Packers" Type="int" />
+          <Property Name="Baltimore Bullets" Type="int" />
+          <Property Name="Chicago Stags" Type="int" />
+          <Property Name="Cleveland Rebels" Type="int" />
+          <Property Name="Detroit Falcons" Type="int" />
+          <Property Name="Indianapolis Jets" Type="int" />
+          <Property Name="Indianapolis Olympians" Type="int" />
+          <Property Name="Pittsburgh Ironmen" Type="int" />
+          <Property Name="Providence Steam Rollers" Type="int" />
+          <Property Name="Sheboygan Red Skins" Type="int" />
+          <Property Name="St. Louis Bombers" Type="int" />
+          <Property Name="Toronto Huskies" Type="int" />
+          <Property Name="Washington Capitols" Type="int" />
+          <Property Name="Waterloo Hawks" Type="int" />
+        </EntityType>
+        <EntityType Name="Positions">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="nchar" MaxLength="20" Nullable="false" />
+          <Property Name="Atlanta Hawks" Type="int" />
+          <Property Name="Boston Celtics" Type="int" />
+          <Property Name="Brooklyn Nets" Type="int" />
+          <Property Name="Charlotte Hornets" Type="int" />
+          <Property Name="Chicago Bulls" Type="int" />
+          <Property Name="Cleveland Cavaliers" Type="int" />
+          <Property Name="Dallas Mavericks" Type="int" />
+          <Property Name="Denver Nuggets" Type="int" />
+          <Property Name="Detroit Pistons" Type="int" />
+          <Property Name="Golden State Warriors" Type="int" />
+          <Property Name="Houston Rockets" Type="int" />
+          <Property Name="Indiana Pacers" Type="int" />
+          <Property Name="LA Clipers" Type="int" />
+          <Property Name="Los Angeles Lakers" Type="int" />
+          <Property Name="Memphis Grizzlies" Type="int" />
+          <Property Name="Miami Heat" Type="int" />
+          <Property Name="Milwaukee Bucks" Type="int" />
+          <Property Name="Minnesota Timberwolves" Type="int" />
+          <Property Name="New Orleans Pelicans" Type="int" />
+          <Property Name="New York Knicks" Type="int" />
+          <Property Name="Oklahoma City Thunder" Type="int" />
+          <Property Name="Orlando Magic" Type="int" />
+          <Property Name="Philadelphia 76ers" Type="int" />
+          <Property Name="Phoenix Suns" Type="int" />
+          <Property Name="Portland Trail Blazers" Type="int" />
+          <Property Name="Sacramento Kings" Type="int" />
+          <Property Name="San Antonio Spurs" Type="int" />
+          <Property Name="Toronto Raptors" Type="int" />
+          <Property Name="Utah Jazz" Type="int" />
+          <Property Name="Washington Wizards" Type="int" />
+          <Property Name="Anderson Packers" Type="int" />
+          <Property Name="Baltimore Bullets" Type="int" />
+          <Property Name="Chicago Stags" Type="int" />
+          <Property Name="Cleveland Rebels" Type="int" />
+          <Property Name="Detroit Falcons" Type="int" />
+          <Property Name="Indianapolis Jets" Type="int" />
+          <Property Name="Indianapolis Olympians" Type="int" />
+          <Property Name="Pittsburgh Ironmen" Type="int" />
+          <Property Name="Providence Steam Rollers" Type="int" />
+          <Property Name="Sheboygan Red Skins" Type="int" />
+          <Property Name="St. Louis Bombers" Type="int" />
+          <Property Name="Toronto Huskies" Type="int" />
+          <Property Name="Washington Capitols" Type="int" />
+          <Property Name="Waterloo Hawks" Type="int" />
+        </EntityType>
+        <EntityType Name="Rankings">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="nchar" MaxLength="20" Nullable="false" />
+          <Property Name="Atlanta Hawks" Type="int" />
+          <Property Name="Boston Celtics" Type="int" />
+          <Property Name="Brooklyn Nets" Type="int" />
+          <Property Name="Charlotte Hornets" Type="int" />
+          <Property Name="Chicago Bulls" Type="int" />
+          <Property Name="Cleveland Cavaliers" Type="int" />
+          <Property Name="Dallas Mavericks" Type="int" />
+          <Property Name="Denver Nuggets" Type="int" />
+          <Property Name="Detroit Pistons" Type="int" />
+          <Property Name="Golden State Warriors" Type="int" />
+          <Property Name="Houston Rockets" Type="int" />
+          <Property Name="Indiana Pacers" Type="int" />
+          <Property Name="LA Clipers" Type="int" />
+          <Property Name="Los Angeles Lakers" Type="int" />
+          <Property Name="Memphis Grizzlies" Type="int" />
+          <Property Name="Miami Heat" Type="int" />
+          <Property Name="Milwaukee Bucks" Type="int" />
+          <Property Name="Minnesota Timberwolves" Type="int" />
+          <Property Name="New Orleans Pelicans" Type="int" />
+          <Property Name="New York Knicks" Type="int" />
+          <Property Name="Oklahoma City Thunder" Type="int" />
+          <Property Name="Orlando Magic" Type="int" />
+          <Property Name="Philadelphia 76ers" Type="int" />
+          <Property Name="Phoenix Suns" Type="int" />
+          <Property Name="Portland Trail Blazers" Type="int" />
+          <Property Name="Sacramento Kings" Type="int" />
+          <Property Name="San Antonio Spurs" Type="int" />
+          <Property Name="Toronto Raptors" Type="int" />
+          <Property Name="Utah Jazz" Type="int" />
+          <Property Name="Washington Wizards" Type="int" />
+          <Property Name="Anderson Packers" Type="int" />
+          <Property Name="Baltimore Bullets" Type="int" />
+          <Property Name="Chicago Stags" Type="int" />
+          <Property Name="Cleveland Rebels" Type="int" />
+          <Property Name="Detroit Falcons" Type="int" />
+          <Property Name="Indianapolis Jets" Type="int" />
+          <Property Name="Indianapolis Olympians" Type="int" />
+          <Property Name="Pittsburgh Ironmen" Type="int" />
+          <Property Name="Providence Steam Rollers" Type="int" />
+          <Property Name="Sheboygan Red Skins" Type="int" />
+          <Property Name="St. Louis Bombers" Type="int" />
+          <Property Name="Toronto Huskies" Type="int" />
+          <Property Name="Washington Capitols" Type="int" />
+          <Property Name="Waterloo Hawks" Type="int" />
+        </EntityType>
+        <EntityType Name="Teams">
+          <Key>
+            <PropertyRef Name="TeamID" />
+          </Key>
+          <Property Name="TeamID" Type="int" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="30" />
+          <Property Name="OldNames" Type="nvarchar" MaxLength="90" />
+        </EntityType>
+        <EntityContainer Name="NBAMetricsModelStoreContainer">
+          <EntitySet Name="Activity" EntityType="Self.Activity" Schema="1163_psupelas" store:Type="Tables" />
+          <EntitySet Name="EstimatedRankings" EntityType="Self.EstimatedRankings" Schema="1163_psupelas" store:Type="Tables" />
+          <EntitySet Name="Positions" EntityType="Self.Positions" Schema="1163_psupelas" store:Type="Tables" />
+          <EntitySet Name="Rankings" EntityType="Self.Rankings" Schema="1163_psupelas" store:Type="Tables" />
+          <EntitySet Name="Teams" EntityType="Self.Teams" Schema="1163_psupelas" store:Type="Tables" />
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="NBAMetricsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Activity">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Atlanta_Hawks" Type="Boolean" />
+          <Property Name="Boston_Celtics" Type="Boolean" />
+          <Property Name="Brooklyn_Nets" Type="Boolean" />
+          <Property Name="Charlotte_Hornets" Type="Boolean" />
+          <Property Name="Chicago_Bulls" Type="Boolean" />
+          <Property Name="Cleveland_Cavaliers" Type="Boolean" />
+          <Property Name="Dallas_Mavericks" Type="Boolean" />
+          <Property Name="Denver_Nuggets" Type="Boolean" />
+          <Property Name="Detroit_Pistons" Type="Boolean" />
+          <Property Name="Golden_State_Warriors" Type="Boolean" />
+          <Property Name="Houston_Rockets" Type="Boolean" />
+          <Property Name="Indiana_Pacers" Type="Boolean" />
+          <Property Name="LA_Clipers" Type="Boolean" />
+          <Property Name="Los_Angeles_Lakers" Type="Boolean" />
+          <Property Name="Memphis_Grizzlies" Type="Boolean" />
+          <Property Name="Miami_Heat" Type="Boolean" />
+          <Property Name="Milwaukee_Bucks" Type="Boolean" />
+          <Property Name="Minnesota_Timberwolves" Type="Boolean" />
+          <Property Name="New_Orleans_Pelicans" Type="Boolean" />
+          <Property Name="New_York_Knicks" Type="Boolean" />
+          <Property Name="Oklahoma_City_Thunder" Type="Boolean" />
+          <Property Name="Orlando_Magic" Type="Boolean" />
+          <Property Name="Philadelphia_76ers" Type="Boolean" />
+          <Property Name="Phoenix_Suns" Type="Boolean" />
+          <Property Name="Portland_Trail_Blazers" Type="Boolean" />
+          <Property Name="Sacramento_Kings" Type="Boolean" />
+          <Property Name="San_Antonio_Spurs" Type="Boolean" />
+          <Property Name="Toronto_Raptors" Type="Boolean" />
+          <Property Name="Utah_Jazz" Type="Boolean" />
+          <Property Name="Washington_Wizards" Type="Boolean" />
+          <Property Name="Anderson_Packers" Type="Boolean" />
+          <Property Name="Baltimore_Bullets" Type="Boolean" />
+          <Property Name="Chicago_Stags" Type="Boolean" />
+          <Property Name="Cleveland_Rebels" Type="Boolean" />
+          <Property Name="Detroit_Falcons" Type="Boolean" />
+          <Property Name="Indianapolis_Jets" Type="Boolean" />
+          <Property Name="Indianapolis_Olympians" Type="Boolean" />
+          <Property Name="Pittsburgh_Ironmen" Type="Boolean" />
+          <Property Name="Providence_Steam_Rollers" Type="Boolean" />
+          <Property Name="Sheboygan_Red_Skins" Type="Boolean" />
+          <Property Name="St__Louis_Bombers" Type="Boolean" />
+          <Property Name="Toronto_Huskies" Type="Boolean" />
+          <Property Name="Washington_Capitols" Type="Boolean" />
+          <Property Name="Waterloo_Hawks" Type="Boolean" />
+        </EntityType>
+        <EntityType Name="EstimatedRankings">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="Atlanta_Hawks" Type="Int32" />
+          <Property Name="Boston_Celtics" Type="Int32" />
+          <Property Name="Brooklyn_Nets" Type="Int32" />
+          <Property Name="Charlotte_Hornets" Type="Int32" />
+          <Property Name="Chicago_Bulls" Type="Int32" />
+          <Property Name="Cleveland_Cavaliers" Type="Int32" />
+          <Property Name="Dallas_Mavericks" Type="Int32" />
+          <Property Name="Denver_Nuggets" Type="Int32" />
+          <Property Name="Detroit_Pistons" Type="Int32" />
+          <Property Name="Golden_State_Warriors" Type="Int32" />
+          <Property Name="Houston_Rockets" Type="Int32" />
+          <Property Name="Indiana_Pacers" Type="Int32" />
+          <Property Name="LA_Clipers" Type="Int32" />
+          <Property Name="Los_Angeles_Lakers" Type="Int32" />
+          <Property Name="Memphis_Grizzlies" Type="Int32" />
+          <Property Name="Miami_Heat" Type="Int32" />
+          <Property Name="Milwaukee_Bucks" Type="Int32" />
+          <Property Name="Minnesota_Timberwolves" Type="Int32" />
+          <Property Name="New_Orleans_Pelicans" Type="Int32" />
+          <Property Name="New_York_Knicks" Type="Int32" />
+          <Property Name="Oklahoma_City_Thunder" Type="Int32" />
+          <Property Name="Orlando_Magic" Type="Int32" />
+          <Property Name="Philadelphia_76ers" Type="Int32" />
+          <Property Name="Phoenix_Suns" Type="Int32" />
+          <Property Name="Portland_Trail_Blazers" Type="Int32" />
+          <Property Name="Sacramento_Kings" Type="Int32" />
+          <Property Name="San_Antonio_Spurs" Type="Int32" />
+          <Property Name="Toronto_Raptors" Type="Int32" />
+          <Property Name="Utah_Jazz" Type="Int32" />
+          <Property Name="Washington_Wizards" Type="Int32" />
+          <Property Name="Anderson_Packers" Type="Int32" />
+          <Property Name="Baltimore_Bullets" Type="Int32" />
+          <Property Name="Chicago_Stags" Type="Int32" />
+          <Property Name="Cleveland_Rebels" Type="Int32" />
+          <Property Name="Detroit_Falcons" Type="Int32" />
+          <Property Name="Indianapolis_Jets" Type="Int32" />
+          <Property Name="Indianapolis_Olympians" Type="Int32" />
+          <Property Name="Pittsburgh_Ironmen" Type="Int32" />
+          <Property Name="Providence_Steam_Rollers" Type="Int32" />
+          <Property Name="Sheboygan_Red_Skins" Type="Int32" />
+          <Property Name="St__Louis_Bombers" Type="Int32" />
+          <Property Name="Toronto_Huskies" Type="Int32" />
+          <Property Name="Washington_Capitols" Type="Int32" />
+          <Property Name="Waterloo_Hawks" Type="Int32" />
+        </EntityType>
+        <EntityType Name="Positions">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="Atlanta_Hawks" Type="Int32" />
+          <Property Name="Boston_Celtics" Type="Int32" />
+          <Property Name="Brooklyn_Nets" Type="Int32" />
+          <Property Name="Charlotte_Hornets" Type="Int32" />
+          <Property Name="Chicago_Bulls" Type="Int32" />
+          <Property Name="Cleveland_Cavaliers" Type="Int32" />
+          <Property Name="Dallas_Mavericks" Type="Int32" />
+          <Property Name="Denver_Nuggets" Type="Int32" />
+          <Property Name="Detroit_Pistons" Type="Int32" />
+          <Property Name="Golden_State_Warriors" Type="Int32" />
+          <Property Name="Houston_Rockets" Type="Int32" />
+          <Property Name="Indiana_Pacers" Type="Int32" />
+          <Property Name="LA_Clipers" Type="Int32" />
+          <Property Name="Los_Angeles_Lakers" Type="Int32" />
+          <Property Name="Memphis_Grizzlies" Type="Int32" />
+          <Property Name="Miami_Heat" Type="Int32" />
+          <Property Name="Milwaukee_Bucks" Type="Int32" />
+          <Property Name="Minnesota_Timberwolves" Type="Int32" />
+          <Property Name="New_Orleans_Pelicans" Type="Int32" />
+          <Property Name="New_York_Knicks" Type="Int32" />
+          <Property Name="Oklahoma_City_Thunder" Type="Int32" />
+          <Property Name="Orlando_Magic" Type="Int32" />
+          <Property Name="Philadelphia_76ers" Type="Int32" />
+          <Property Name="Phoenix_Suns" Type="Int32" />
+          <Property Name="Portland_Trail_Blazers" Type="Int32" />
+          <Property Name="Sacramento_Kings" Type="Int32" />
+          <Property Name="San_Antonio_Spurs" Type="Int32" />
+          <Property Name="Toronto_Raptors" Type="Int32" />
+          <Property Name="Utah_Jazz" Type="Int32" />
+          <Property Name="Washington_Wizards" Type="Int32" />
+          <Property Name="Anderson_Packers" Type="Int32" />
+          <Property Name="Baltimore_Bullets" Type="Int32" />
+          <Property Name="Chicago_Stags" Type="Int32" />
+          <Property Name="Cleveland_Rebels" Type="Int32" />
+          <Property Name="Detroit_Falcons" Type="Int32" />
+          <Property Name="Indianapolis_Jets" Type="Int32" />
+          <Property Name="Indianapolis_Olympians" Type="Int32" />
+          <Property Name="Pittsburgh_Ironmen" Type="Int32" />
+          <Property Name="Providence_Steam_Rollers" Type="Int32" />
+          <Property Name="Sheboygan_Red_Skins" Type="Int32" />
+          <Property Name="St__Louis_Bombers" Type="Int32" />
+          <Property Name="Toronto_Huskies" Type="Int32" />
+          <Property Name="Washington_Capitols" Type="Int32" />
+          <Property Name="Waterloo_Hawks" Type="Int32" />
+        </EntityType>
+        <EntityType Name="Rankings">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="Atlanta_Hawks" Type="Int32" />
+          <Property Name="Boston_Celtics" Type="Int32" />
+          <Property Name="Brooklyn_Nets" Type="Int32" />
+          <Property Name="Charlotte_Hornets" Type="Int32" />
+          <Property Name="Chicago_Bulls" Type="Int32" />
+          <Property Name="Cleveland_Cavaliers" Type="Int32" />
+          <Property Name="Dallas_Mavericks" Type="Int32" />
+          <Property Name="Denver_Nuggets" Type="Int32" />
+          <Property Name="Detroit_Pistons" Type="Int32" />
+          <Property Name="Golden_State_Warriors" Type="Int32" />
+          <Property Name="Houston_Rockets" Type="Int32" />
+          <Property Name="Indiana_Pacers" Type="Int32" />
+          <Property Name="LA_Clipers" Type="Int32" />
+          <Property Name="Los_Angeles_Lakers" Type="Int32" />
+          <Property Name="Memphis_Grizzlies" Type="Int32" />
+          <Property Name="Miami_Heat" Type="Int32" />
+          <Property Name="Milwaukee_Bucks" Type="Int32" />
+          <Property Name="Minnesota_Timberwolves" Type="Int32" />
+          <Property Name="New_Orleans_Pelicans" Type="Int32" />
+          <Property Name="New_York_Knicks" Type="Int32" />
+          <Property Name="Oklahoma_City_Thunder" Type="Int32" />
+          <Property Name="Orlando_Magic" Type="Int32" />
+          <Property Name="Philadelphia_76ers" Type="Int32" />
+          <Property Name="Phoenix_Suns" Type="Int32" />
+          <Property Name="Portland_Trail_Blazers" Type="Int32" />
+          <Property Name="Sacramento_Kings" Type="Int32" />
+          <Property Name="San_Antonio_Spurs" Type="Int32" />
+          <Property Name="Toronto_Raptors" Type="Int32" />
+          <Property Name="Utah_Jazz" Type="Int32" />
+          <Property Name="Washington_Wizards" Type="Int32" />
+          <Property Name="Anderson_Packers" Type="Int32" />
+          <Property Name="Baltimore_Bullets" Type="Int32" />
+          <Property Name="Chicago_Stags" Type="Int32" />
+          <Property Name="Cleveland_Rebels" Type="Int32" />
+          <Property Name="Detroit_Falcons" Type="Int32" />
+          <Property Name="Indianapolis_Jets" Type="Int32" />
+          <Property Name="Indianapolis_Olympians" Type="Int32" />
+          <Property Name="Pittsburgh_Ironmen" Type="Int32" />
+          <Property Name="Providence_Steam_Rollers" Type="Int32" />
+          <Property Name="Sheboygan_Red_Skins" Type="Int32" />
+          <Property Name="St__Louis_Bombers" Type="Int32" />
+          <Property Name="Toronto_Huskies" Type="Int32" />
+          <Property Name="Washington_Capitols" Type="Int32" />
+          <Property Name="Waterloo_Hawks" Type="Int32" />
+        </EntityType>
+        <EntityType Name="Teams">
+          <Key>
+            <PropertyRef Name="TeamID" />
+          </Key>
+          <Property Name="TeamID" Type="Int32" Nullable="false" />
+          <Property Name="Name" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="OldNames" Type="String" MaxLength="90" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityContainer Name="NBAConnection" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Activity" EntityType="Self.Activity" />
+          <EntitySet Name="EstimatedRankings" EntityType="Self.EstimatedRankings" />
+          <EntitySet Name="Positions" EntityType="Self.Positions" />
+          <EntitySet Name="Rankings" EntityType="Self.Rankings" />
+          <EntitySet Name="Teams" EntityType="Self.Teams" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="NBAMetricsModelStoreContainer" CdmEntityContainer="NBAConnection">
+          <EntitySetMapping Name="Activity">
+            <EntityTypeMapping TypeName="NBAMetricsModel.Activity">
+              <MappingFragment StoreEntitySet="Activity">
+                <ScalarProperty Name="Detroit_Pistons" ColumnName="Detroit Pistons" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Atlanta_Hawks" ColumnName="Atlanta Hawks" />
+                <ScalarProperty Name="Boston_Celtics" ColumnName="Boston Celtics" />
+                <ScalarProperty Name="Brooklyn_Nets" ColumnName="Brooklyn Nets" />
+                <ScalarProperty Name="Charlotte_Hornets" ColumnName="Charlotte Hornets" />
+                <ScalarProperty Name="Chicago_Bulls" ColumnName="Chicago Bulls" />
+                <ScalarProperty Name="Cleveland_Cavaliers" ColumnName="Cleveland Cavaliers" />
+                <ScalarProperty Name="Dallas_Mavericks" ColumnName="Dallas Mavericks" />
+                <ScalarProperty Name="Denver_Nuggets" ColumnName="Denver Nuggets" />
+                <ScalarProperty Name="Golden_State_Warriors" ColumnName="Golden State Warriors" />
+                <ScalarProperty Name="Houston_Rockets" ColumnName="Houston Rockets" />
+                <ScalarProperty Name="Indiana_Pacers" ColumnName="Indiana Pacers" />
+                <ScalarProperty Name="LA_Clipers" ColumnName="LA Clipers" />
+                <ScalarProperty Name="Los_Angeles_Lakers" ColumnName="Los Angeles Lakers" />
+                <ScalarProperty Name="Memphis_Grizzlies" ColumnName="Memphis Grizzlies" />
+                <ScalarProperty Name="Miami_Heat" ColumnName="Miami Heat" />
+                <ScalarProperty Name="Milwaukee_Bucks" ColumnName="Milwaukee Bucks" />
+                <ScalarProperty Name="Minnesota_Timberwolves" ColumnName="Minnesota Timberwolves" />
+                <ScalarProperty Name="New_Orleans_Pelicans" ColumnName="New Orleans Pelicans" />
+                <ScalarProperty Name="New_York_Knicks" ColumnName="New York Knicks" />
+                <ScalarProperty Name="Oklahoma_City_Thunder" ColumnName="Oklahoma City Thunder" />
+                <ScalarProperty Name="Orlando_Magic" ColumnName="Orlando Magic" />
+                <ScalarProperty Name="Philadelphia_76ers" ColumnName="Philadelphia 76ers" />
+                <ScalarProperty Name="Phoenix_Suns" ColumnName="Phoenix Suns" />
+                <ScalarProperty Name="Portland_Trail_Blazers" ColumnName="Portland Trail Blazers" />
+                <ScalarProperty Name="Sacramento_Kings" ColumnName="Sacramento Kings" />
+                <ScalarProperty Name="San_Antonio_Spurs" ColumnName="San Antonio Spurs" />
+                <ScalarProperty Name="Toronto_Raptors" ColumnName="Toronto Raptors" />
+                <ScalarProperty Name="Utah_Jazz" ColumnName="Utah Jazz" />
+                <ScalarProperty Name="Washington_Wizards" ColumnName="Washington Wizards" />
+                <ScalarProperty Name="Anderson_Packers" ColumnName="Anderson Packers" />
+                <ScalarProperty Name="Baltimore_Bullets" ColumnName="Baltimore Bullets" />
+                <ScalarProperty Name="Chicago_Stags" ColumnName="Chicago Stags" />
+                <ScalarProperty Name="Cleveland_Rebels" ColumnName="Cleveland Rebels" />
+                <ScalarProperty Name="Detroit_Falcons" ColumnName="Detroit Falcons" />
+                <ScalarProperty Name="Indianapolis_Jets" ColumnName="Indianapolis Jets" />
+                <ScalarProperty Name="Indianapolis_Olympians" ColumnName="Indianapolis Olympians" />
+                <ScalarProperty Name="Pittsburgh_Ironmen" ColumnName="Pittsburgh Ironmen" />
+                <ScalarProperty Name="Providence_Steam_Rollers" ColumnName="Providence Steam Rollers" />
+                <ScalarProperty Name="Sheboygan_Red_Skins" ColumnName="Sheboygan Red Skins" />
+                <ScalarProperty Name="St__Louis_Bombers" ColumnName="St. Louis Bombers" />
+                <ScalarProperty Name="Toronto_Huskies" ColumnName="Toronto Huskies" />
+                <ScalarProperty Name="Washington_Capitols" ColumnName="Washington Capitols" />
+                <ScalarProperty Name="Waterloo_Hawks" ColumnName="Waterloo Hawks" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="EstimatedRankings">
+            <EntityTypeMapping TypeName="NBAMetricsModel.EstimatedRankings">
+              <MappingFragment StoreEntitySet="EstimatedRankings">
+                <ScalarProperty Name="Detroit_Pistons" ColumnName="Detroit Pistons" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="Atlanta_Hawks" ColumnName="Atlanta Hawks" />
+                <ScalarProperty Name="Boston_Celtics" ColumnName="Boston Celtics" />
+                <ScalarProperty Name="Brooklyn_Nets" ColumnName="Brooklyn Nets" />
+                <ScalarProperty Name="Charlotte_Hornets" ColumnName="Charlotte Hornets" />
+                <ScalarProperty Name="Chicago_Bulls" ColumnName="Chicago Bulls" />
+                <ScalarProperty Name="Cleveland_Cavaliers" ColumnName="Cleveland Cavaliers" />
+                <ScalarProperty Name="Dallas_Mavericks" ColumnName="Dallas Mavericks" />
+                <ScalarProperty Name="Denver_Nuggets" ColumnName="Denver Nuggets" />
+                <ScalarProperty Name="Golden_State_Warriors" ColumnName="Golden State Warriors" />
+                <ScalarProperty Name="Houston_Rockets" ColumnName="Houston Rockets" />
+                <ScalarProperty Name="Indiana_Pacers" ColumnName="Indiana Pacers" />
+                <ScalarProperty Name="LA_Clipers" ColumnName="LA Clipers" />
+                <ScalarProperty Name="Los_Angeles_Lakers" ColumnName="Los Angeles Lakers" />
+                <ScalarProperty Name="Memphis_Grizzlies" ColumnName="Memphis Grizzlies" />
+                <ScalarProperty Name="Miami_Heat" ColumnName="Miami Heat" />
+                <ScalarProperty Name="Milwaukee_Bucks" ColumnName="Milwaukee Bucks" />
+                <ScalarProperty Name="Minnesota_Timberwolves" ColumnName="Minnesota Timberwolves" />
+                <ScalarProperty Name="New_Orleans_Pelicans" ColumnName="New Orleans Pelicans" />
+                <ScalarProperty Name="New_York_Knicks" ColumnName="New York Knicks" />
+                <ScalarProperty Name="Oklahoma_City_Thunder" ColumnName="Oklahoma City Thunder" />
+                <ScalarProperty Name="Orlando_Magic" ColumnName="Orlando Magic" />
+                <ScalarProperty Name="Philadelphia_76ers" ColumnName="Philadelphia 76ers" />
+                <ScalarProperty Name="Phoenix_Suns" ColumnName="Phoenix Suns" />
+                <ScalarProperty Name="Portland_Trail_Blazers" ColumnName="Portland Trail Blazers" />
+                <ScalarProperty Name="Sacramento_Kings" ColumnName="Sacramento Kings" />
+                <ScalarProperty Name="San_Antonio_Spurs" ColumnName="San Antonio Spurs" />
+                <ScalarProperty Name="Toronto_Raptors" ColumnName="Toronto Raptors" />
+                <ScalarProperty Name="Utah_Jazz" ColumnName="Utah Jazz" />
+                <ScalarProperty Name="Washington_Wizards" ColumnName="Washington Wizards" />
+                <ScalarProperty Name="Anderson_Packers" ColumnName="Anderson Packers" />
+                <ScalarProperty Name="Baltimore_Bullets" ColumnName="Baltimore Bullets" />
+                <ScalarProperty Name="Chicago_Stags" ColumnName="Chicago Stags" />
+                <ScalarProperty Name="Cleveland_Rebels" ColumnName="Cleveland Rebels" />
+                <ScalarProperty Name="Detroit_Falcons" ColumnName="Detroit Falcons" />
+                <ScalarProperty Name="Indianapolis_Jets" ColumnName="Indianapolis Jets" />
+                <ScalarProperty Name="Indianapolis_Olympians" ColumnName="Indianapolis Olympians" />
+                <ScalarProperty Name="Pittsburgh_Ironmen" ColumnName="Pittsburgh Ironmen" />
+                <ScalarProperty Name="Providence_Steam_Rollers" ColumnName="Providence Steam Rollers" />
+                <ScalarProperty Name="Sheboygan_Red_Skins" ColumnName="Sheboygan Red Skins" />
+                <ScalarProperty Name="St__Louis_Bombers" ColumnName="St. Louis Bombers" />
+                <ScalarProperty Name="Toronto_Huskies" ColumnName="Toronto Huskies" />
+                <ScalarProperty Name="Washington_Capitols" ColumnName="Washington Capitols" />
+                <ScalarProperty Name="Waterloo_Hawks" ColumnName="Waterloo Hawks" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Positions">
+            <EntityTypeMapping TypeName="NBAMetricsModel.Positions">
+              <MappingFragment StoreEntitySet="Positions">
+                <ScalarProperty Name="Detroit_Pistons" ColumnName="Detroit Pistons" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="Atlanta_Hawks" ColumnName="Atlanta Hawks" />
+                <ScalarProperty Name="Boston_Celtics" ColumnName="Boston Celtics" />
+                <ScalarProperty Name="Brooklyn_Nets" ColumnName="Brooklyn Nets" />
+                <ScalarProperty Name="Charlotte_Hornets" ColumnName="Charlotte Hornets" />
+                <ScalarProperty Name="Chicago_Bulls" ColumnName="Chicago Bulls" />
+                <ScalarProperty Name="Cleveland_Cavaliers" ColumnName="Cleveland Cavaliers" />
+                <ScalarProperty Name="Dallas_Mavericks" ColumnName="Dallas Mavericks" />
+                <ScalarProperty Name="Denver_Nuggets" ColumnName="Denver Nuggets" />
+                <ScalarProperty Name="Golden_State_Warriors" ColumnName="Golden State Warriors" />
+                <ScalarProperty Name="Houston_Rockets" ColumnName="Houston Rockets" />
+                <ScalarProperty Name="Indiana_Pacers" ColumnName="Indiana Pacers" />
+                <ScalarProperty Name="LA_Clipers" ColumnName="LA Clipers" />
+                <ScalarProperty Name="Los_Angeles_Lakers" ColumnName="Los Angeles Lakers" />
+                <ScalarProperty Name="Memphis_Grizzlies" ColumnName="Memphis Grizzlies" />
+                <ScalarProperty Name="Miami_Heat" ColumnName="Miami Heat" />
+                <ScalarProperty Name="Milwaukee_Bucks" ColumnName="Milwaukee Bucks" />
+                <ScalarProperty Name="Minnesota_Timberwolves" ColumnName="Minnesota Timberwolves" />
+                <ScalarProperty Name="New_Orleans_Pelicans" ColumnName="New Orleans Pelicans" />
+                <ScalarProperty Name="New_York_Knicks" ColumnName="New York Knicks" />
+                <ScalarProperty Name="Oklahoma_City_Thunder" ColumnName="Oklahoma City Thunder" />
+                <ScalarProperty Name="Orlando_Magic" ColumnName="Orlando Magic" />
+                <ScalarProperty Name="Philadelphia_76ers" ColumnName="Philadelphia 76ers" />
+                <ScalarProperty Name="Phoenix_Suns" ColumnName="Phoenix Suns" />
+                <ScalarProperty Name="Portland_Trail_Blazers" ColumnName="Portland Trail Blazers" />
+                <ScalarProperty Name="Sacramento_Kings" ColumnName="Sacramento Kings" />
+                <ScalarProperty Name="San_Antonio_Spurs" ColumnName="San Antonio Spurs" />
+                <ScalarProperty Name="Toronto_Raptors" ColumnName="Toronto Raptors" />
+                <ScalarProperty Name="Utah_Jazz" ColumnName="Utah Jazz" />
+                <ScalarProperty Name="Washington_Wizards" ColumnName="Washington Wizards" />
+                <ScalarProperty Name="Anderson_Packers" ColumnName="Anderson Packers" />
+                <ScalarProperty Name="Baltimore_Bullets" ColumnName="Baltimore Bullets" />
+                <ScalarProperty Name="Chicago_Stags" ColumnName="Chicago Stags" />
+                <ScalarProperty Name="Cleveland_Rebels" ColumnName="Cleveland Rebels" />
+                <ScalarProperty Name="Detroit_Falcons" ColumnName="Detroit Falcons" />
+                <ScalarProperty Name="Indianapolis_Jets" ColumnName="Indianapolis Jets" />
+                <ScalarProperty Name="Indianapolis_Olympians" ColumnName="Indianapolis Olympians" />
+                <ScalarProperty Name="Pittsburgh_Ironmen" ColumnName="Pittsburgh Ironmen" />
+                <ScalarProperty Name="Providence_Steam_Rollers" ColumnName="Providence Steam Rollers" />
+                <ScalarProperty Name="Sheboygan_Red_Skins" ColumnName="Sheboygan Red Skins" />
+                <ScalarProperty Name="St__Louis_Bombers" ColumnName="St. Louis Bombers" />
+                <ScalarProperty Name="Toronto_Huskies" ColumnName="Toronto Huskies" />
+                <ScalarProperty Name="Washington_Capitols" ColumnName="Washington Capitols" />
+                <ScalarProperty Name="Waterloo_Hawks" ColumnName="Waterloo Hawks" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Rankings">
+            <EntityTypeMapping TypeName="NBAMetricsModel.Rankings">
+              <MappingFragment StoreEntitySet="Rankings">
+                <ScalarProperty Name="Detroit_Pistons" ColumnName="Detroit Pistons" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="Atlanta_Hawks" ColumnName="Atlanta Hawks" />
+                <ScalarProperty Name="Boston_Celtics" ColumnName="Boston Celtics" />
+                <ScalarProperty Name="Brooklyn_Nets" ColumnName="Brooklyn Nets" />
+                <ScalarProperty Name="Charlotte_Hornets" ColumnName="Charlotte Hornets" />
+                <ScalarProperty Name="Chicago_Bulls" ColumnName="Chicago Bulls" />
+                <ScalarProperty Name="Cleveland_Cavaliers" ColumnName="Cleveland Cavaliers" />
+                <ScalarProperty Name="Dallas_Mavericks" ColumnName="Dallas Mavericks" />
+                <ScalarProperty Name="Denver_Nuggets" ColumnName="Denver Nuggets" />
+                <ScalarProperty Name="Golden_State_Warriors" ColumnName="Golden State Warriors" />
+                <ScalarProperty Name="Houston_Rockets" ColumnName="Houston Rockets" />
+                <ScalarProperty Name="Indiana_Pacers" ColumnName="Indiana Pacers" />
+                <ScalarProperty Name="LA_Clipers" ColumnName="LA Clipers" />
+                <ScalarProperty Name="Los_Angeles_Lakers" ColumnName="Los Angeles Lakers" />
+                <ScalarProperty Name="Memphis_Grizzlies" ColumnName="Memphis Grizzlies" />
+                <ScalarProperty Name="Miami_Heat" ColumnName="Miami Heat" />
+                <ScalarProperty Name="Milwaukee_Bucks" ColumnName="Milwaukee Bucks" />
+                <ScalarProperty Name="Minnesota_Timberwolves" ColumnName="Minnesota Timberwolves" />
+                <ScalarProperty Name="New_Orleans_Pelicans" ColumnName="New Orleans Pelicans" />
+                <ScalarProperty Name="New_York_Knicks" ColumnName="New York Knicks" />
+                <ScalarProperty Name="Oklahoma_City_Thunder" ColumnName="Oklahoma City Thunder" />
+                <ScalarProperty Name="Orlando_Magic" ColumnName="Orlando Magic" />
+                <ScalarProperty Name="Philadelphia_76ers" ColumnName="Philadelphia 76ers" />
+                <ScalarProperty Name="Phoenix_Suns" ColumnName="Phoenix Suns" />
+                <ScalarProperty Name="Portland_Trail_Blazers" ColumnName="Portland Trail Blazers" />
+                <ScalarProperty Name="Sacramento_Kings" ColumnName="Sacramento Kings" />
+                <ScalarProperty Name="San_Antonio_Spurs" ColumnName="San Antonio Spurs" />
+                <ScalarProperty Name="Toronto_Raptors" ColumnName="Toronto Raptors" />
+                <ScalarProperty Name="Utah_Jazz" ColumnName="Utah Jazz" />
+                <ScalarProperty Name="Washington_Wizards" ColumnName="Washington Wizards" />
+                <ScalarProperty Name="Anderson_Packers" ColumnName="Anderson Packers" />
+                <ScalarProperty Name="Baltimore_Bullets" ColumnName="Baltimore Bullets" />
+                <ScalarProperty Name="Chicago_Stags" ColumnName="Chicago Stags" />
+                <ScalarProperty Name="Cleveland_Rebels" ColumnName="Cleveland Rebels" />
+                <ScalarProperty Name="Detroit_Falcons" ColumnName="Detroit Falcons" />
+                <ScalarProperty Name="Indianapolis_Jets" ColumnName="Indianapolis Jets" />
+                <ScalarProperty Name="Indianapolis_Olympians" ColumnName="Indianapolis Olympians" />
+                <ScalarProperty Name="Pittsburgh_Ironmen" ColumnName="Pittsburgh Ironmen" />
+                <ScalarProperty Name="Providence_Steam_Rollers" ColumnName="Providence Steam Rollers" />
+                <ScalarProperty Name="Sheboygan_Red_Skins" ColumnName="Sheboygan Red Skins" />
+                <ScalarProperty Name="St__Louis_Bombers" ColumnName="St. Louis Bombers" />
+                <ScalarProperty Name="Toronto_Huskies" ColumnName="Toronto Huskies" />
+                <ScalarProperty Name="Washington_Capitols" ColumnName="Washington Capitols" />
+                <ScalarProperty Name="Waterloo_Hawks" ColumnName="Waterloo Hawks" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Teams">
+            <EntityTypeMapping TypeName="NBAMetricsModel.Teams">
+              <MappingFragment StoreEntitySet="Teams">
+                <ScalarProperty Name="TeamID" ColumnName="TeamID" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="OldNames" ColumnName="OldNames" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

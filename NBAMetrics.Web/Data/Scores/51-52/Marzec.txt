@@ -1,0 +1,56 @@
+Baltimore Bullets-90-77-Philadelphia Warriors
+Fort Wayne Pistons-66-58-Milwaukee Hawks
+Minneapolis Lakers-98-88-Indianapolis Olympians
+New York Knicks-105-86-Boston Celtics
+Rochester Royals-98-83-Syracuse Nationals
+New York Knicks-89-87-Boston Celtics
+Fort Wayne Pistons-101-88-Indianapolis Olympians
+Minneapolis Lakers-96-85-Milwaukee Hawks
+Syracuse Nationals-76-72-Rochester Royals
+Baltimore Bullets-99-96-Rochester Royals
+Boston Celtics-91-80-Baltimore Bullets
+Indianapolis Olympians-86-68-Fort Wayne Pistons
+New York Knicks-92-90-Rochester Royals
+Philadelphia Warriors-83-81-Minneapolis Lakers
+New York Knicks-88-82-Baltimore Bullets
+Boston Celtics-82-74-Minneapolis Lakers
+Syracuse Nationals-83-81-Fort Wayne Pistons
+Rochester Royals-77-74-Milwaukee Hawks
+Indianapolis Olympians-81-76-Syracuse Nationals
+Milwaukee Hawks-75-74-Fort Wayne Pistons
+Boston Celtics-100-77-Baltimore Bullets
+Milwaukee Hawks-103-99-New York Knicks
+Rochester Royals-94-92-Minneapolis Lakers
+Boston Celtics-89-72-Baltimore Bullets
+Fort Wayne Pistons-80-79-New York Knicks
+Minneapolis Lakers-96-90-Rochester Royals
+Philadelphia Warriors-92-83-Syracuse Nationals
+Baltimore Bullets-91-80-Milwaukee Hawks
+Boston Celtics-88-84-Philadelphia Warriors
+Rochester Royals-82-81-Indianapolis Olympians
+Syracuse Nationals-99-82-Philadelphia Warriors
+Syracuse Nationals-89-71-Boston Celtics
+Minneapolis Lakers-85-83-New York Knicks
+Rochester Royals-86-84-Fort Wayne Pistons
+Syracuse Nationals-89-70-Boston Celtics
+Indianapolis Olympians-103-87-Baltimore Bullets
+Philadelphia Warriors-85-82-Milwaukee Hawks
+Philadelphia Warriors-105-86-Milwaukee Hawks
+New York Knicks-97-90-Syracuse Nationals
+Boston Celtics-118-106-Rochester Royals
+Boston Celtics-96-89-Philadelphia Warriors
+Fort Wayne Pistons-111-92-Indianapolis Olympians
+Minneapolis Lakers-126-82-Baltimore Bullets
+New York Knicks-90-84-Syracuse Nationals
+Rochester Royals-95-78-Fort Wayne Pistons
+Boston Celtics-105-94-New York Knicks
+Rochester Royals-92-86-Fort Wayne Pistons
+Syracuse Nationals-102-83-Philadelphia Warriors
+Philadelphia Warriors-100-95-Syracuse Nationals
+Minneapolis Lakers-78-70-Indianapolis Olympians
+New York Knicks-101-97-Boston Celtics
+Syracuse Nationals-84-73-Philadelphia Warriors
+Minneapolis Lakers-94-87-Indianapolis Olympians
+New York Knicks-88-87-Boston Celtics
+Rochester Royals-88-78-Minneapolis Lakers
+Minneapolis Lakers-83-78-Rochester Royals

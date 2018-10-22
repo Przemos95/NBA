@@ -1,0 +1,34 @@
+﻿@using NBAMetrics.DataAccess
+@model IEnumerable<Teams>
+@{
+    ViewBag.Title = "CompareTeams";
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+
+<div id="checkBoxContent" style="background-color: white; font-size: 20px; border: #a00704 10px solid">
+    <ul style="column-count: 3; list-style-type: none">
+        @foreach (var team in Model)
+        {
+            <li>@Html.CheckBox(team.Name) @team.Name</li>
+        }
+    </ul>
+
+    <button onclick="CompareTeams()">Porównaj</button>
+</div>
+
+
+<script type="text/javascript">
+    function CompareTeams() {
+        var checked = $('input:checked');
+        if (checked.length > 6) {
+            alert('Możesz wybrać maksymalnie 5 drużyn');
+        }
+        else {
+            var selected = '';
+            checked.each(function () {
+                selected += $(this).attr('name') + ';';
+            });
+            location.href = '@Url.Action("CompareSelected", "Teams")' + '?selected=' + selected;
+        }
+    }
+</script>

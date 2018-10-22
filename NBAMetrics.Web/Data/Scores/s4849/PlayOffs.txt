@@ -1,0 +1,20 @@
+Rochester Royals-93-64-St. Louis Bombers
+Baltimore Bullets-82-81-New York Knicks
+Minneapolis Lakers-84-77-Chicago Stags
+Washington Capitols-92-70-Philadelphia Warriors
+Rochester Royals-66-64-St. Louis Bombers
+Minneapolis Lakers-101-85-Chicago Stags
+New York Knicks-84-74-Baltimore Bullets
+Washington Capitols-80-78-Philadelphia Warriors
+New York Knicks-103-99-Baltimore Bullets
+Minneapolis Lakers-80-79-Rochester Royals
+Minneapolis Lakers-67-55-Rochester Royals
+Washington Capitols-77-71-New York Knicks
+New York Knicks-86-84-Washington Capitols
+Washington Capitols-84-76-New York Knicks
+Minneapolis Lakers-88-84-Washington Capitols
+Minneapolis Lakers-76-62-Washington Capitols
+Minneapolis Lakers-94-74-Washington Capitols
+Washington Capitols-83-71-Minneapolis Lakers
+Washington Capitols-74-65-Minneapolis Lakers
+Minneapolis Lakers-77-56-Washington Capitols

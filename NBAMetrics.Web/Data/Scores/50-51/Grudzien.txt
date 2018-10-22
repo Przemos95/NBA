@@ -1,0 +1,76 @@
+Indianapolis Olympians-66-65-Minneapolis Lakers
+Syracuse Nationals-99-96-Baltimore Bullets
+Rochester Royals-94-72-Indianapolis Olympians
+Boston Celtics-83-75-Washington Capitols
+Boston Celtics-97-85-Baltimore Bullets
+Fort Wayne Pistons-80-79-Rochester Royals
+Minneapolis Lakers-95-83-Philadelphia Warriors
+Syracuse Nationals-84-81-Indianapolis Olympians
+New York Knicks-100-92-Tri-Cities Blackhawks
+Indianapolis Olympians-95-89-New York Knicks
+Rochester Royals-74-70-Baltimore Bullets
+Fort Wayne Pistons-92-73-Philadelphia Warriors
+Minneapolis Lakers-84-62-New York Knicks
+Indianapolis Olympians-101-79-Washington Capitols
+Philadelphia Warriors-102-73-Indianapolis Olympians
+Rochester Royals-76-69-Syracuse Nationals
+Fort Wayne Pistons-77-76-Tri-Cities Blackhawks
+Baltimore Bullets-76-75-Philadelphia Warriors
+Syracuse Nationals-86-85-Boston Celtics
+Minneapolis Lakers-88-79-Tri-Cities Blackhawks
+Washington Capitols-91-84-New York Knicks
+Fort Wayne Pistons-97-81-Washington Capitols
+Minneapolis Lakers-114-101-Tri-Cities Blackhawks
+New York Knicks-106-84-Indianapolis Olympians
+Rochester Royals-99-84-Philadelphia Warriors
+Baltimore Bullets-86-76-Syracuse Nationals
+Boston Celtics-87-81-Fort Wayne Pistons
+Indianapolis Olympians-75-74-Tri-Cities Blackhawks
+Philadelphia Warriors-101-91-New York Knicks
+Rochester Royals-102-87-Baltimore Bullets
+Baltimore Bullets-83-55-Tri-Cities Blackhawks
+Rochester Royals-82-72-Minneapolis Lakers
+Washington Capitols-110-79-Boston Celtics
+Philadelphia Warriors-94-82-Fort Wayne Pistons
+Tri-Cities Blackhawks-78-69-Syracuse Nationals
+Minneapolis Lakers-82-71-Indianapolis Olympians
+Baltimore Bullets-119-88-Boston Celtics
+New York Knicks-86-77-Fort Wayne Pistons
+Syracuse Nationals-79-75-Rochester Royals
+Minneapolis Lakers-86-71-Tri-Cities Blackhawks
+Philadelphia Warriors-96-88-Washington Capitols
+Boston Celtics-88-75-Rochester Royals
+Tri-Cities Blackhawks-103-99-Fort Wayne Pistons
+Minneapolis Lakers-79-60-Indianapolis Olympians
+Syracuse Nationals-95-86-New York Knicks
+New York Knicks-86-80-Boston Celtics
+Fort Wayne Pistons-93-92-Indianapolis Olympians
+Philadelphia Warriors-71-67-Minneapolis Lakers
+Baltimore Bullets-91-84-Minneapolis Lakers
+Tri-Cities Blackhawks-86-83-Syracuse Nationals
+Rochester Royals-94-76-Washington Capitols
+Fort Wayne Pistons-97-72-Syracuse Nationals
+Boston Celtics-87-81-Minneapolis Lakers
+New York Knicks-83-79-Philadelphia Warriors
+Rochester Royals-77-65-Fort Wayne Pistons
+Indianapolis Olympians-87-79-Washington Capitols
+Minneapolis Lakers-93-79-Washington Capitols
+New York Knicks-86-84-Philadelphia Warriors
+Rochester Royals-90-77-Boston Celtics
+Syracuse Nationals-81-69-Fort Wayne Pistons
+Tri-Cities Blackhawks-87-72-Baltimore Bullets
+Boston Celtics-102-100-Syracuse Nationals
+Washington Capitols-88-81-Indianapolis Olympians
+Rochester Royals-74-68-Fort Wayne Pistons
+Minneapolis Lakers-81-63-Baltimore Bullets
+New York Knicks-79-74-Philadelphia Warriors
+Philadelphia Warriors-91-88-Syracuse Nationals
+Rochester Royals-75-67-Minneapolis Lakers
+Tri-Cities Blackhawks-97-80-Washington Capitols
+Indianapolis Olympians-112-81-Tri-Cities Blackhawks
+Syracuse Nationals-90-80-Baltimore Bullets
+New York Knicks-77-60-Boston Celtics
+Rochester Royals-91-77-Washington Capitols
+Boston Celtics-100-90-New York Knicks
+Minneapolis Lakers-83-73-Philadelphia Warriors
+Tri-Cities Blackhawks-110-100-Fort Wayne Pistons

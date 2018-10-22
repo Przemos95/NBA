@@ -1,0 +1,394 @@
+Listopad
+St. Louis Hawks-111-100-Cincinnati Royals
+Los Angeles Lakers-122-115-San Francisco Warriors
+Philadelphia 76ers-133-101-Baltimore Bullets
+Boston Celtics-102-98-Cincinnati Royals
+New York Knicks-111-103-Detroit Pistons
+Los Angeles Lakers-106-94-St. Louis Hawks
+Cincinnati Royals-144-124-Baltimore Bullets
+San Francisco Warriors-100-99-Cincinnati Royals
+Baltimore Bullets-119-99-St. Louis Hawks
+Boston Celtics-100-96-Los Angeles Lakers
+Detroit Pistons-116-103-New York Knicks
+San Francisco Warriors-123-108-Baltimore Bullets
+New York Knicks-106-101-Los Angeles Lakers
+Philadelphia 76ers-120-103-Detroit Pistons
+St. Louis Hawks-120-110-Boston Celtics
+Baltimore Bullets-117-98-Detroit Pistons
+Los Angeles Lakers-104-102-New York Knicks
+Detroit Pistons-108-107-Baltimore Bullets
+Cincinnati Royals-113-108-Boston Celtics
+Los Angeles Lakers-140-116-New York Knicks
+Cincinnati Royals-131-121-Baltimore Bullets
+Detroit Pistons-108-106-Boston Celtics
+San Francisco Warriors-110-100-New York Knicks
+San Francisco Warriors-124-122-Los Angeles Lakers
+Philadelphia 76ers-134-114-Cincinnati Royals
+St. Louis Hawks-122-95-Detroit Pistons
+Boston Celtics-105-100-Baltimore Bullets
+Cincinnati Royals-113-107-Detroit Pistons
+New York Knicks-104-103-San Francisco Warriors
+Baltimore Bullets-129-114-New York Knicks
+Cincinnati Royals-122-108-San Francisco Warriors
+Detroit Pistons-110-100-Philadelphia 76ers
+Los Angeles Lakers-120-116-St. Louis Hawks
+New York Knicks-108-107-Baltimore Bullets
+San Francisco Warriors-121-119-Philadelphia 76ers
+Boston Celtics-129-118-Baltimore Bullets
+Cincinnati Royals-120-114-Detroit Pistons
+Los Angeles Lakers-118-116-St. Louis Hawks
+Philadelphia 76ers-133-115-San Francisco Warriors
+Boston Celtics-101-91-Philadelphia 76ers
+Cincinnati Royals-114-103-New York Knicks
+San Francisco Warriors-110-100-Detroit Pistons
+St. Louis Hawks-131-101-Los Angeles Lakers
+Baltimore Bullets-137-116-Los Angeles Lakers
+Boston Celtics-130-116-Baltimore Bullets
+Philadelphia 76ers-118-110-Los Angeles Lakers
+San Francisco Warriors-107-102-Detroit Pistons
+Baltimore Bullets-124-117-St. Louis Hawks
+Cincinnati Royals-124-119-New York Knicks
+Los Angeles Lakers-133-125-Detroit Pistons
+Boston Celtics-87-83-St. Louis Hawks
+Philadelphia 76ers-109-101-San Francisco Warriors
+San Francisco Warriors-103-102-Detroit Pistons
+Los Angeles Lakers-107-106-New York Knicks
+Philadelphia 76ers-123-114-Boston Celtics
+Boston Celtics-122-93-Detroit Pistons
+Cincinnati Royals-135-132-Baltimore Bullets
+Philadelphia 76ers-127-119-New York Knicks
+St. Louis Hawks-138-113-San Francisco Warriors
+Los Angeles Lakers-129-114-Baltimore Bullets
+San Francisco Warriors-123-112-Baltimore Bullets
+New York Knicks-120-95-Detroit Pistons
+Philadelphia 76ers-107-98-St. Louis Hawks
+Boston Celtics-108-105-San Francisco Warriors
+Cincinnati Royals-131-115-Philadelphia 76ers
+Los Angeles Lakers-125-115-Boston Celtics
+Baltimore Bullets-120-104-New York Knicks
+Boston Celtics-129-103-Cincinnati Royals
+New York Knicks-116-109-Detroit Pistons
+Los Angeles Lakers-135-124-San Francisco Warriors
+Baltimore Bullets-134-124-Philadelphia 76ers
+Baltimore Bullets-117-112-Philadelphia 76ers
+Los Angeles Lakers-133-117-San Francisco Warriors
+Boston Celtics-122-108-New York Knicks
+St. Louis Hawks-110-101-Detroit Pistons
+Cincinnati Royals-120-114-Baltimore Bullets
+Philadelphia 76ers-110-104-Los Angeles Lakers
+San Francisco Warriors-112-108-St. Louis Hawks
+Detroit Pistons-118-115-Cincinnati Royals
+San Francisco Warriors-134-125-New York Knicks
+Boston Celtics-125-110-New York Knicks
+Cincinnati Royals-112-108-St. Louis Hawks
+Detroit Pistons-130-124-Baltimore Bullets
+Los Angeles Lakers-127-124-Philadelphia 76ers
+St. Louis Hawks-119-113-San Francisco Warriors
+Baltimore Bullets-110-107-Los Angeles Lakers
+Boston Celtics-134-114-Detroit Pistons
+Cincinnati Royals-117-113-New York Knicks
+Philadelphia 76ers-132-120-San Francisco Warriors
+Boston Celtics-101-95-Los Angeles Lakers
+Cincinnati Royals-132-129-New York Knicks
+Philadelphia 76ers-124-117-San Francisco Warriors
+St. Louis Hawks-136-110-Baltimore Bullets
+Baltimore Bullets-110-102-St. Louis Hawks
+Los Angeles Lakers-128-110-Detroit Pistons
+Baltimore Bullets-129-108-Philadelphia 76ers
+Cincinnati Royals-126-120-Los Angeles Lakers
+New York Knicks-138-119-St. Louis Hawks
+Grudzien
+Baltimore Bullets-139-125-New York Knicks
+St. Louis Hawks-110-101-Detroit Pistons
+Los Angeles Lakers-121-105-Cincinnati Royals
+San Francisco Warriors-125-119-Cincinnati Royals
+Philadelphia 76ers-119-103-Boston Celtics
+Cincinnati Royals-122-118-Los Angeles Lakers
+Detroit Pistons-130-119-Baltimore Bullets
+Boston Celtics-100-94-St. Louis Hawks
+Cincinnati Royals-108-99-Boston Celtics
+St. Louis Hawks-113-99-San Francisco Warriors
+Philadelphia 76ers-116-107-Los Angeles Lakers
+Boston Celtics-112-96-St. Louis Hawks
+New York Knicks-131-127-Los Angeles Lakers
+Baltimore Bullets-129-127-Philadelphia 76ers
+Boston Celtics-108-106-Los Angeles Lakers
+Detroit Pistons-115-113-San Francisco Warriors
+St. Louis Hawks-104-93-New York Knicks
+San Francisco Warriors-110-109-Cincinnati Royals
+Baltimore Bullets-145-127-San Francisco Warriors
+Los Angeles Lakers-129-110-Cincinnati Royals
+Detroit Pistons-116-114-Philadelphia 76ers
+New York Knicks-109-106-St. Louis Hawks
+Boston Celtics-143-106-San Francisco Warriors
+Philadelphia 76ers-135-132-Cincinnati Royals
+Los Angeles Lakers-126-108-St. Louis Hawks
+New York Knicks-150-127-Baltimore Bullets
+Los Angeles Lakers-123-101-St. Louis Hawks
+Baltimore Bullets-142-129-Detroit Pistons
+Cincinnati Royals-112-109-Philadelphia 76ers
+New York Knicks-141-137-San Francisco Warriors
+Baltimore Bullets-111-108-New York Knicks
+Cincinnati Royals-117-110-Boston Celtics
+Philadelphia 76ers-122-108-Los Angeles Lakers
+San Francisco Warriors-128-113-St. Louis Hawks
+Boston Celtics-114-112-Detroit Pistons
+Philadelphia 76ers-127-117-Los Angeles Lakers
+St. Louis Hawks-103-102-San Francisco Warriors
+Baltimore Bullets-143-114-Detroit Pistons
+New York Knicks-122-114-Cincinnati Royals
+Philadelphia 76ers-120-116-San Francisco Warriors
+Los Angeles Lakers-132-120-San Francisco Warriors
+San Francisco Warriors-124-118-Philadelphia 76ers
+Baltimore Bullets-129-127-Cincinnati Royals
+Boston Celtics-123-120-New York Knicks
+San Francisco Warriors-114-104-Detroit Pistons
+Los Angeles Lakers-122-112-Detroit Pistons
+Boston Celtics-113-99-Baltimore Bullets
+Cincinnati Royals-119-113-San Francisco Warriors
+Los Angeles Lakers-115-106-Detroit Pistons
+St. Louis Hawks-131-111-New York Knicks
+Boston Celtics-120-99-Baltimore Bullets
+Philadelphia 76ers-121-107-San Francisco Warriors
+Cincinnati Royals-117-115-St. Louis Hawks
+Cincinnati Royals-138-116-New York Knicks
+Los Angeles Lakers-108-100-St. Louis Hawks
+Philadelphia 76ers-102-93-Boston Celtics
+Los Angeles Lakers-107-100-St. Louis Hawks
+San Francisco Warriors-120-107-Detroit Pistons
+Baltimore Bullets-144-111-San Francisco Warriors
+Cincinnati Royals-111-109-Los Angeles Lakers
+Philadelphia 76ers-113-112-Detroit Pistons
+Boston Celtics-99-96-New York Knicks
+Boston Celtics-116-113-San Francisco Warriors
+Detroit Pistons-117-114-Los Angeles Lakers
+St. Louis Hawks-130-113-Philadelphia 76ers
+Styczen
+Baltimore Bullets-116-112-Detroit Pistons
+New York Knicks-147-122-Cincinnati Royals
+St. Louis Hawks-100-98-Boston Celtics
+Cincinnati Royals-138-107-Baltimore Bullets
+San Francisco Warriors-136-113-Detroit Pistons
+Boston Celtics-124-113-Los Angeles Lakers
+Philadelphia 76ers-133-122-New York Knicks
+Cincinnati Royals-130-114-St. Louis Hawks
+San Francisco Warriors-122-111-Baltimore Bullets
+Philadelphia 76ers-129-127-New York Knicks
+Baltimore Bullets-114-101-St. Louis Hawks
+Cincinnati Royals-117-103-Detroit Pistons
+Los Angeles Lakers-120-113-Boston Celtics
+San Francisco Warriors-118-117-New York Knicks
+Philadelphia 76ers-133-127-Baltimore Bullets
+Cincinnati Royals-109-97-Detroit Pistons
+Detroit Pistons-137-97-St. Louis Hawks
+Los Angeles Lakers-126-120-Philadelphia 76ers
+Boston Celtics-115-114-San Francisco Warriors
+Cincinnati Royals-126-115-Baltimore Bullets
+New York Knicks-133-127-Los Angeles Lakers
+Boston Celtics-124-96-San Francisco Warriors
+St. Louis Hawks-115-105-Philadelphia 76ers
+Baltimore Bullets-130-124-New York Knicks
+Los Angeles Lakers-111-98-Detroit Pistons
+Philadelphia 76ers-127-117-St. Louis Hawks
+Boston Celtics-114-102-Los Angeles Lakers
+Detroit Pistons-129-111-Philadelphia 76ers
+San Francisco Warriors-122-114-New York Knicks
+Cincinnati Royals-107-102-St. Louis Hawks
+Philadelphia 76ers-112-100-Boston Celtics
+Los Angeles Lakers-118-110-San Francisco Warriors
+Baltimore Bullets-121-119-St. Louis Hawks
+Detroit Pistons-122-117-Baltimore Bullets
+Los Angeles Lakers-152-123-New York Knicks
+Boston Celtics-137-122-Philadelphia 76ers
+Cincinnati Royals-108-106-Detroit Pistons
+St. Louis Hawks-136-128-Baltimore Bullets
+St. Louis Hawks-115-106-New York Knicks
+Detroit Pistons-116-115-Boston Celtics
+Cincinnati Royals-119-108-Los Angeles Lakers
+Philadelphia 76ers-128-117-Baltimore Bullets
+St. Louis Hawks-109-107-New York Knicks
+Boston Celtics-129-89-Baltimore Bullets
+Philadelphia 76ers-110-93-Detroit Pistons
+Baltimore Bullets-123-121-Los Angeles Lakers
+St. Louis Hawks-103-92-Detroit Pistons
+Boston Celtics-113-96-Cincinnati Royals
+Detroit Pistons-117-108-St. Louis Hawks
+San Francisco Warriors-120-109-Los Angeles Lakers
+Philadelphia 76ers-109-98-New York Knicks
+Baltimore Bullets-132-107-Boston Celtics
+St. Louis Hawks-119-111-New York Knicks
+Philadelphia 76ers-104-98-St. Louis Hawks
+Cincinnati Royals-135-112-San Francisco Warriors
+Philadelphia 76ers-110-107-St. Louis Hawks
+Cincinnati Royals-113-101-Boston Celtics
+Philadelphia 76ers-110-106-Los Angeles Lakers
+New York Knicks-115-100-Detroit Pistons
+St. Louis Hawks-142-107-San Francisco Warriors
+Los Angeles Lakers-126-110-Detroit Pistons
+New York Knicks-115-103-San Francisco Warriors
+Boston Celtics-131-112-Detroit Pistons
+Detroit Pistons-108-105-Boston Celtics
+Los Angeles Lakers-138-123-Baltimore Bullets
+Philadelphia 76ers-125-103-Cincinnati Royals
+San Francisco Warriors-114-104-St. Louis Hawks
+Cincinnati Royals-116-115-St. Louis Hawks
+Boston Celtics-119-107-New York Knicks
+San Francisco Warriors-108-95-Baltimore Bullets
+Boston Celtics-118-115-New York Knicks
+Los Angeles Lakers-136-122-Baltimore Bullets
+Philadelphia 76ers-117-98-Detroit Pistons
+St. Louis Hawks-115-98-Cincinnati Royals
+San Francisco Warriors-131-118-Baltimore Bullets
+Luty
+Boston Celtics-100-81-Detroit Pistons
+New York Knicks-112-109-Baltimore Bullets
+San Francisco Warriors-127-125-Cincinnati Royals
+Detroit Pistons-99-93-Boston Celtics
+Los Angeles Lakers-119-118-Cincinnati Royals
+St. Louis Hawks-96-89-Philadelphia 76ers
+Baltimore Bullets-122-113-St. Louis Hawks
+Boston Celtics-117-95-St. Louis Hawks
+New York Knicks-115-113-Detroit Pistons
+Los Angeles Lakers-132-125-Cincinnati Royals
+Baltimore Bullets-113-94-Boston Celtics
+New York Knicks-120-113-Philadelphia 76ers
+Boston Celtics-100-99-Philadelphia 76ers
+Cincinnati Royals-117-116-San Francisco Warriors
+St. Louis Hawks-109-105-Los Angeles Lakers
+Baltimore Bullets-111-104-St. Louis Hawks
+Boston Celtics-112-107-San Francisco Warriors
+Detroit Pistons-124-118-Cincinnati Royals
+Philadelphia 76ers-132-125-Los Angeles Lakers
+Cincinnati Royals-128-113-Baltimore Bullets
+San Francisco Warriors-113-103-Detroit Pistons
+New York Knicks-136-123-Philadelphia 76ers
+Los Angeles Lakers-123-116-Baltimore Bullets
+Boston Celtics-121-117-New York Knicks
+Philadelphia 76ers-108-91-Detroit Pistons
+San Francisco Warriors-128-117-Boston Celtics
+Boston Celtics-99-96-San Francisco Warriors
+New York Knicks-122-107-Detroit Pistons
+Philadelphia 76ers-113-94-Cincinnati Royals
+Baltimore Bullets-136-127-San Francisco Warriors
+Boston Celtics-85-83-Philadelphia 76ers
+Cincinnati Royals-143-116-Detroit Pistons
+New York Knicks-140-127-Los Angeles Lakers
+Los Angeles Lakers-120-110-Boston Celtics
+St. Louis Hawks-104-102-Cincinnati Royals
+Philadelphia 76ers-149-123-Detroit Pistons
+New York Knicks-138-125-San Francisco Warriors
+Baltimore Bullets-114-105-Detroit Pistons
+Cincinnati Royals-136-123-Boston Celtics
+Los Angeles Lakers-132-124-New York Knicks
+Philadelphia 76ers-121-109-St. Louis Hawks
+New York Knicks-112-108-San Francisco Warriors
+Philadelphia 76ers-136-121-Los Angeles Lakers
+Baltimore Bullets-118-114-Cincinnati Royals
+Detroit Pistons-120-118-New York Knicks
+San Francisco Warriors-128-106-Boston Celtics
+Boston Celtics-115-111-Los Angeles Lakers
+New York Knicks-124-113-Cincinnati Royals
+Philadelphia 76ers-123-119-San Francisco Warriors
+Cincinnati Royals-133-129-Detroit Pistons
+St. Louis Hawks-126-123-Baltimore Bullets
+Cincinnati Royals-113-107-Philadelphia 76ers
+Boston Celtics-115-108-Los Angeles Lakers
+Philadelphia 76ers-117-112-Detroit Pistons
+New York Knicks-113-108-St. Louis Hawks
+Boston Celtics-116-108-San Francisco Warriors
+Baltimore Bullets-119-115-Philadelphia 76ers
+New York Knicks-100-98-Detroit Pistons
+Los Angeles Lakers-140-133-Cincinnati Royals
+Boston Celtics-134-106-St. Louis Hawks
+Philadelphia 76ers-130-124-New York Knicks
+San Francisco Warriors-125-119-Cincinnati Royals
+Philadelphia 76ers-114-98-Baltimore Bullets
+Los Angeles Lakers-131-118-Detroit Pistons
+Boston Celtics-100-95-New York Knicks
+Cincinnati Royals-112-103-San Francisco Warriors
+Baltimore Bullets-132-92-Boston Celtics
+St. Louis Hawks-125-114-Detroit Pistons
+St. Louis Hawks-108-103-Detroit Pistons
+Marzec
+Detroit Pistons-122-110-Baltimore Bullets
+Cincinnati Royals-102-100-Philadelphia 76ers
+San Francisco Warriors-114-112-New York Knicks
+Boston Celtics-120-95-St. Louis Hawks
+Baltimore Bullets-119-113-Los Angeles Lakers
+Boston Celtics-140-104-New York Knicks
+Detroit Pistons-131-118-San Francisco Warriors
+Philadelphia 76ers-135-125-San Francisco Warriors
+St. Louis Hawks-132-112-Boston Celtics
+Philadelphia 76ers-107-103-Cincinnati Royals
+New York Knicks-121-119-Detroit Pistons
+Los Angeles Lakers-123-106-Baltimore Bullets
+Cincinnati Royals-149-145-New York Knicks
+Philadelphia 76ers-102-85-Boston Celtics
+Los Angeles Lakers-125-123-San Francisco Warriors
+Philadelphia 76ers-113-110-Boston Celtics
+Cincinnati Royals-137-125-Detroit Pistons
+Los Angeles Lakers-126-105-Baltimore Bullets
+St. Louis Hawks-119-106-New York Knicks
+Boston Celtics-106-104-St. Louis Hawks
+Baltimore Bullets-130-109-San Francisco Warriors
+New York Knicks-133-132-Los Angeles Lakers
+Philadelphia 76ers-112-106-St. Louis Hawks
+San Francisco Warriors-125-115-Baltimore Bullets
+Los Angeles Lakers-119-116-Cincinnati Royals
+Philadelphia 76ers-123-115-St. Louis Hawks
+Boston Celtics-124-120-Cincinnati Royals
+Detroit Pistons-116-114-Los Angeles Lakers
+Baltimore Bullets-126-123-New York Knicks
+St. Louis Hawks-114-113-Cincinnati Royals
+Philadelphia 76ers-134-126-New York Knicks
+Boston Celtics-129-98-Baltimore Bullets
+San Francisco Warriors-121-119-Detroit Pistons
+Philadelphia 76ers-115-113-New York Knicks
+St. Louis Hawks-115-106-Cincinnati Royals
+Cincinnati Royals-125-107-New York Knicks
+Los Angeles Lakers-135-108-Detroit Pistons
+St. Louis Hawks-110-109-San Francisco Warriors
+Baltimore Bullets-118-113-New York Knicks
+Boston Celtics-128-103-Detroit Pistons
+Philadelphia 76ers-115-106-New York Knicks
+San Francisco Warriors-116-112-St. Louis Hawks
+Baltimore Bullets-125-105-Cincinnati Royals
+Los Angeles Lakers-132-120-St. Louis Hawks
+Boston Celtics-126-113-New York Knicks
+Philadelphia 76ers-127-121-Cincinnati Royals
+San Francisco Warriors-125-119-Los Angeles Lakers
+St. Louis Hawks-115-112-Detroit Pistons
+Philadelphia 76ers-108-104-Baltimore Bullets
+Boston Celtics-121-104-Cincinnati Royals
+St. Louis Hawks-121-117-Detroit Pistons
+Los Angeles Lakers-124-112-San Francisco Warriors
+New York Knicks-126-125-St. Louis Hawks
+Kwiecien
+PlayOffs
+Cincinnati Royals-107-103-Boston Celtics
+St. Louis Hawks-113-111-Baltimore Bullets
+Boston Celtics-132-125-Cincinnati Royals
+St. Louis Hawks-105-100-Baltimore Bullets
+Cincinnati Royals-113-107-Boston Celtics
+Boston Celtics-120-103-Cincinnati Royals
+St. Louis Hawks-121-112-Baltimore Bullets
+Boston Celtics-112-103-Cincinnati Royals
+Los Angeles Lakers-129-106-St. Louis Hawks
+Los Angeles Lakers-125-116-St. Louis Hawks
+Boston Celtics-115-96-Philadelphia 76ers
+Boston Celtics-114-93-Philadelphia 76ers
+St. Louis Hawks-120-113-Los Angeles Lakers
+Philadelphia 76ers-111-105-Boston Celtics
+Los Angeles Lakers-107-95-St. Louis Hawks
+Boston Celtics-114-108-Philadelphia 76ers
+St. Louis Hawks-112-100-Los Angeles Lakers
+Boston Celtics-120-112-Philadelphia 76ers
+St. Louis Hawks-131-127-Los Angeles Lakers
+Los Angeles Lakers-130-121-St. Louis Hawks
+Los Angeles Lakers-133-129-Boston Celtics
+Boston Celtics-129-109-Los Angeles Lakers
+Boston Celtics-120-106-Los Angeles Lakers
+Boston Celtics-122-117-Los Angeles Lakers
+Los Angeles Lakers-121-117-Boston Celtics
+Los Angeles Lakers-123-115-Boston Celtics
+Boston Celtics-95-93-Los Angeles Lakers

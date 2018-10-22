@@ -1,0 +1,745 @@
+Listopad
+Atlanta Hawks-128-114-Capital Bullets
+Buffalo Braves-107-105-Houston Rockets
+Los Angeles Lakers-117-97-Chicago Bulls
+New York Knicks-101-100-Detroit Pistons
+Chicago Bulls-105-90-Kansas City~Omaha Kings
+Houston Rockets-104-88-Philadelphia 76ers
+Phoenix Suns-115-111-Seattle Supersonics
+Atlanta Hawks-129-102-Los Angeles Lakers
+Boston Celtics-118-112-Buffalo Braves
+Houston Rockets-106-99-Cleveland Cavaliers
+Detroit Pistons-122-105-Atlanta Hawks
+Kansas City~Omaha Kings-88-84-Chicago Bulls
+Milwaukee Bucks-107-84-Phoenix Suns
+Seattle Supersonics-103-102-Capital Bullets
+Kansas City~Omaha Kings-117-102-Atlanta Hawks
+Los Angeles Lakers-125-122-Buffalo Braves
+Chicago Bulls-101-94-Detroit Pistons
+Milwaukee Bucks-97-85-Golden State Warriors
+Houston Rockets-86-85-New York Knicks
+Boston Celtics-111-106-Philadelphia 76ers
+Portland Trail Blazers-132-87-Capital Bullets
+Detroit Pistons-95-83-Cleveland Cavaliers
+Golden State Warriors-120-95-Phoenix Suns
+Seattle Supersonics-109-100-Milwaukee Bucks
+Philadelphia 76ers-106-101-Houston Rockets
+New York Knicks-117-91-Buffalo Braves
+Milwaukee Bucks-109-95-Golden State Warriors
+Kansas City~Omaha Kings-108-106-Seattle Supersonics
+Boston Celtics-133-102-Philadelphia 76ers
+Chicago Bulls-117-103-Capital Bullets
+New York Knicks-92-90-Cleveland Cavaliers
+Milwaukee Bucks-96-94-Detroit Pistons
+Los Angeles Lakers-118-91-Seattle Supersonics
+Portland Trail Blazers-111-99-Kansas City~Omaha Kings
+Buffalo Braves-116-110-Philadelphia 76ers
+Capital Bullets-96-87-Boston Celtics
+Golden State Warriors-100-81-Kansas City~Omaha Kings
+Detroit Pistons-107-104-Houston Rockets
+Milwaukee Bucks-101-88-Cleveland Cavaliers
+Chicago Bulls-85-69-New York Knicks
+Phoenix Suns-118-108-Atlanta Hawks
+Portland Trail Blazers-123-108-Seattle Supersonics
+Chicago Bulls-107-99-Capital Bullets
+Atlanta Hawks-119-100-Los Angeles Lakers
+Seattle Supersonics-116-112-Phoenix Suns
+Cleveland Cavaliers-103-96-Portland Trail Blazers
+Golden State Warriors-121-109-Phoenix Suns
+Los Angeles Lakers-107-98-Houston Rockets
+Capital Bullets-101-84-New York Knicks
+Houston Rockets-132-117-Boston Celtics
+Los Angeles Lakers-92-91-Kansas City~Omaha Kings
+Milwaukee Bucks-130-113-Buffalo Braves
+Philadelphia 76ers-132-110-Portland Trail Blazers
+Detroit Pistons-115-99-Phoenix Suns
+Atlanta Hawks-131-106-Seattle Supersonics
+Boston Celtics-113-101-New York Knicks
+Buffalo Braves-104-97-Cleveland Cavaliers
+Chicago Bulls-121-113-Houston Rockets
+Kansas City~Omaha Kings-98-93-Phoenix Suns
+Los Angeles Lakers-94-92-Detroit Pistons
+Milwaukee Bucks-98-92-Philadelphia 76ers
+Portland Trail Blazers-127-110-Atlanta Hawks
+Golden State Warriors-117-110-Seattle Supersonics
+Buffalo Braves-111-101-Cleveland Cavaliers
+Atlanta Hawks-125-116-Golden State Warriors
+Chicago Bulls-102-92-Houston Rockets
+Milwaukee Bucks-104-95-Phoenix Suns
+New York Knicks-96-90-Philadelphia 76ers
+Detroit Pistons-111-98-Portland Trail Blazers
+Capital Bullets-119-99-Philadelphia 76ers
+Cleveland Cavaliers-102-99-Boston Celtics
+Buffalo Braves-112-100-Kansas City~Omaha Kings
+Los Angeles Lakers-111-98-Portland Trail Blazers
+Detroit Pistons-115-93-Seattle Supersonics
+Atlanta Hawks-122-101-Phoenix Suns
+Buffalo Braves-105-103-Seattle Supersonics
+Milwaukee Bucks-112-78-Kansas City~Omaha Kings
+Portland Trail Blazers-114-112-Los Angeles Lakers
+Boston Celtics-128-110-Cleveland Cavaliers
+Detroit Pistons-114-107-Seattle Supersonics
+New York Knicks-102-91-Houston Rockets
+Boston Celtics-108-105-Golden State Warriors
+Chicago Bulls-107-97-Buffalo Braves
+Milwaukee Bucks-118-100-Cleveland Cavaliers
+Detroit Pistons-114-107-Phoenix Suns
+Atlanta Hawks-125-123-Houston Rockets
+Seattle Supersonics-115-109-Kansas City~Omaha Kings
+New York Knicks-106-91-Los Angeles Lakers
+Boston Celtics-122-109-Atlanta Hawks
+Golden State Warriors-124-121-Buffalo Braves
+Chicago Bulls-105-94-Cleveland Cavaliers
+Milwaukee Bucks-123-115-Detroit Pistons
+Capital Bullets-112-84-Philadelphia 76ers
+Portland Trail Blazers-107-100-New York Knicks
+Chicago Bulls-101-95-Buffalo Braves
+Capital Bullets-102-99-Phoenix Suns
+Atlanta Hawks-115-110-Cleveland Cavaliers
+Golden State Warriors-92-91-Kansas City~Omaha Kings
+Los Angeles Lakers-106-93-Houston Rockets
+New York Knicks-111-106-Seattle Supersonics
+Cleveland Cavaliers-115-96-Los Angeles Lakers
+Capital Bullets-111-97-Houston Rockets
+Milwaukee Bucks-109-92-Los Angeles Lakers
+Philadelphia 76ers-122-115-Phoenix Suns
+Seattle Supersonics-130-113-Buffalo Braves
+Detroit Pistons-129-115-Atlanta Hawks
+Chicago Bulls-112-111-Golden State Warriors
+Boston Celtics-94-84-New York Knicks
+Boston Celtics-122-107-Phoenix Suns
+Cleveland Cavaliers-111-106-Houston Rockets
+Capital Bullets-109-96-Kansas City~Omaha Kings
+Philadelphia 76ers-94-91-New York Knicks
+Portland Trail Blazers-122-108-Buffalo Braves
+Los Angeles Lakers-118-111-Seattle Supersonics
+Atlanta Hawks-120-97-Philadelphia 76ers
+Boston Celtics-102-97-Detroit Pistons
+Golden State Warriors-128-105-Buffalo Braves
+Milwaukee Bucks-84-83-Kansas City~Omaha Kings
+New York Knicks-100-90-Cleveland Cavaliers
+Chicago Bulls-106-104-Portland Trail Blazers
+Milwaukee Bucks-110-91-Capital Bullets
+Kansas City~Omaha Kings-103-93-Cleveland Cavaliers
+Chicago Bulls-116-98-Seattle Supersonics
+Buffalo Braves-121-114-Atlanta Hawks
+Golden State Warriors-128-115-Cleveland Cavaliers
+Houston Rockets-97-83-Philadelphia 76ers
+Milwaukee Bucks-108-100-Portland Trail Blazers
+New York Knicks-104-102-Seattle Supersonics
+Phoenix Suns-116-108-Chicago Bulls
+Boston Celtics-110-104-Seattle Supersonics
+Portland Trail Blazers-111-108-Detroit Pistons
+Kansas City~Omaha Kings-118-116-Houston Rockets
+Atlanta Hawks-123-114-Portland Trail Blazers
+New York Knicks-97-86-Buffalo Braves
+Phoenix Suns-116-94-Philadelphia 76ers
+Boston Celtics-105-90-Milwaukee Bucks
+Detroit Pistons-125-98-Kansas City~Omaha Kings
+Los Angeles Lakers-118-102-Chicago Bulls
+Seattle Supersonics-117-93-Cleveland Cavaliers
+Capital Bullets-115-109-Atlanta Hawks
+Detroit Pistons-98-94-Buffalo Braves
+Philadelphia 76ers-109-106-Golden State Warriors
+Portland Trail Blazers-96-87-Houston Rockets
+Boston Celtics-123-110-Kansas City~Omaha Kings
+New York Knicks-100-93-Milwaukee Bucks
+Los Angeles Lakers-130-110-Phoenix Suns
+Buffalo Braves-112-101-Capital Bullets
+Chicago Bulls-104-102-Detroit Pistons
+Los Angeles Lakers-102-100-Cleveland Cavaliers
+Seattle Supersonics-95-91-Philadelphia 76ers
+Buffalo Braves-127-100-Phoenix Suns
+Chicago Bulls-106-101-Portland Trail Blazers
+Philadelphia 76ers-109-103-Kansas City~Omaha Kings
+Golden State Warriors-108-105-Milwaukee Bucks
+New York Knicks-105-89-Los Angeles Lakers
+Los Angeles Lakers-106-97-Capital Bullets
+Detroit Pistons-107-104-Phoenix Suns
+Philadelphia 76ers-103-90-Kansas City~Omaha Kings
+Golden State Warriors-101-99-Atlanta Hawks
+Cleveland Cavaliers-104-96-Houston Rockets
+Milwaukee Bucks-107-91-New York Knicks
+Portland Trail Blazers-131-125-Seattle Supersonics
+Boston Celtics-119-102-Kansas City~Omaha Kings
+Capital Bullets-101-86-Atlanta Hawks
+Phoenix Suns-99-94-Chicago Bulls
+Golden State Warriors-111-106-Philadelphia 76ers
+Cleveland Cavaliers-85-83-Houston Rockets
+Seattle Supersonics-127-106-Portland Trail Blazers
+Milwaukee Bucks-112-92-Atlanta Hawks
+Buffalo Braves-143-131-Kansas City~Omaha Kings
+Chicago Bulls-114-112-Detroit Pistons
+Golden State Warriors-107-99-New York Knicks
+Los Angeles Lakers-113-108-Portland Trail Blazers
+Capital Bullets-109-81-New York Knicks
+Boston Celtics-107-101-Cleveland Cavaliers
+Seattle Supersonics-104-99-Kansas City~Omaha Kings
+Los Angeles Lakers-137-109-Portland Trail Blazers
+Milwaukee Bucks-105-96-Philadelphia 76ers
+Milwaukee Bucks-115-110-Buffalo Braves
+Chicago Bulls-123-117-Golden State Warriors
+Cleveland Cavaliers-120-118-Seattle Supersonics
+Houston Rockets-125-111-Phoenix Suns
+Atlanta Hawks-129-110-Kansas City~Omaha Kings
+Atlanta Hawks-130-106-Buffalo Braves
+Boston Celtics-111-104-Capital Bullets
+Cleveland Cavaliers-96-91-Detroit Pistons
+Milwaukee Bucks-127-93-Seattle Supersonics
+Houston Rockets-114-106-New York Knicks
+Philadelphia 76ers-101-96-Chicago Bulls
+Golden State Warriors-119-89-Portland Trail Blazers
+Phoenix Suns-119-99-Kansas City~Omaha Kings
+Capital Bullets-121-113-Buffalo Braves
+Chicago Bulls-115-97-New York Knicks
+Cleveland Cavaliers-112-110-Philadelphia 76ers
+Houston Rockets-110-95-Detroit Pistons
+Los Angeles Lakers-123-107-Kansas City~Omaha Kings
+Milwaukee Bucks-117-93-Boston Celtics
+Phoenix Suns-107-99-Portland Trail Blazers
+Grudzien
+Atlanta Hawks-120-110-Seattle Supersonics
+Boston Celtics-120-98-Chicago Bulls
+Golden State Warriors-120-108-Kansas City~Omaha Kings
+New York Knicks-119-99-Cleveland Cavaliers
+Philadelphia 76ers-108-106-Houston Rockets
+Detroit Pistons-121-109-Phoenix Suns
+Portland Trail Blazers-134-115-Los Angeles Lakers
+Capital Bullets-98-96-Seattle Supersonics
+Houston Rockets-130-104-Cleveland Cavaliers
+Detroit Pistons-114-108-Los Angeles Lakers
+Chicago Bulls-130-107-Seattle Supersonics
+Detroit Pistons-112-93-Golden State Warriors
+Los Angeles Lakers-120-103-Phoenix Suns
+Milwaukee Bucks-124-109-Houston Rockets
+New York Knicks-113-100-Portland Trail Blazers
+Boston Celtics-119-97-New York Knicks
+Buffalo Braves-114-110-Portland Trail Blazers
+Houston Rockets-119-99-Capital Bullets
+Kansas City~Omaha Kings-117-105-Atlanta Hawks
+Cleveland Cavaliers-89-75-Philadelphia 76ers
+Phoenix Suns-103-97-Golden State Warriors
+Chicago Bulls-103-98-Philadelphia 76ers
+Detroit Pistons-110-108-Seattle Supersonics
+Phoenix Suns-114-92-Capital Bullets
+Boston Celtics-116-112-Atlanta Hawks
+New York Knicks-113-108-Buffalo Braves
+Chicago Bulls-96-91-Cleveland Cavaliers
+Seattle Supersonics-115-111-Los Angeles Lakers
+Milwaukee Bucks-116-86-Portland Trail Blazers
+Kansas City~Omaha Kings-113-102-Philadelphia 76ers
+Chicago Bulls-112-95-Boston Celtics
+Detroit Pistons-106-91-Portland Trail Blazers
+Golden State Warriors-135-111-Los Angeles Lakers
+New York Knicks-117-100-Atlanta Hawks
+Milwaukee Bucks-105-92-Philadelphia 76ers
+Boston Celtics-118-114-Buffalo Braves
+Phoenix Suns-117-106-Cleveland Cavaliers
+Detroit Pistons-86-80-Kansas City~Omaha Kings
+Capital Bullets-110-96-Los Angeles Lakers
+Houston Rockets-110-107-Seattle Supersonics
+Buffalo Braves-132-127-Atlanta Hawks
+Chicago Bulls-105-104-Kansas City~Omaha Kings
+Cleveland Cavaliers-101-100-Los Angeles Lakers
+Golden State Warriors-114-107-Houston Rockets
+Milwaukee Bucks-130-91-Seattle Supersonics
+New York Knicks-105-97-Phoenix Suns
+Capital Bullets-87-82-Portland Trail Blazers
+Boston Celtics-126-119-Buffalo Braves
+Detroit Pistons-114-96-Los Angeles Lakers
+Seattle Supersonics-100-93-Philadelphia 76ers
+Chicago Bulls-97-94-Milwaukee Bucks
+Portland Trail Blazers-119-108-Phoenix Suns
+Los Angeles Lakers-100-97-Chicago Bulls
+Buffalo Braves-102-98-Cleveland Cavaliers
+Philadelphia 76ers-96-93-Detroit Pistons
+Boston Celtics-114-106-Houston Rockets
+Portland Trail Blazers-109-101-Golden State Warriors
+Seattle Supersonics-93-88-Capital Bullets
+Chicago Bulls-104-100-Houston Rockets
+Capital Bullets-106-93-Golden State Warriors
+Milwaukee Bucks-116-82-Atlanta Hawks
+New York Knicks-116-107-Kansas City~Omaha Kings
+Detroit Pistons-99-89-Philadelphia 76ers
+Phoenix Suns-121-120-Boston Celtics
+Kansas City~Omaha Kings-105-104-Detroit Pistons
+Boston Celtics-115-110-Los Angeles Lakers
+Milwaukee Bucks-121-98-Portland Trail Blazers
+Phoenix Suns-113-109-Seattle Supersonics
+New York Knicks-109-97-Houston Rockets
+Buffalo Braves-100-93-Cleveland Cavaliers
+Atlanta Hawks-98-91-Capital Bullets
+Seattle Supersonics-93-92-Chicago Bulls
+Boston Celtics-125-106-Golden State Warriors
+Los Angeles Lakers-109-107-Milwaukee Bucks
+Portland Trail Blazers-133-117-Phoenix Suns
+Atlanta Hawks-107-105-New York Knicks
+Detroit Pistons-89-87-Chicago Bulls
+Seattle Supersonics-124-118-Houston Rockets
+Kansas City~Omaha Kings-106-92-Cleveland Cavaliers
+Philadelphia 76ers-101-98-Phoenix Suns
+Capital Bullets-98-92-Kansas City~Omaha Kings
+Buffalo Braves-117-115-New York Knicks
+Cleveland Cavaliers-101-96-Seattle Supersonics
+Detroit Pistons-107-104-Golden State Warriors
+Atlanta Hawks-124-110-Houston Rockets
+Los Angeles Lakers-116-107-Philadelphia 76ers
+Boston Celtics-124-120-Portland Trail Blazers
+Cleveland Cavaliers-108-98-Atlanta Hawks
+Capital Bullets-98-89-Houston Rockets
+Chicago Bulls-110-86-Golden State Warriors
+Kansas City~Omaha Kings-122-112-Buffalo Braves
+New York Knicks-99-88-Detroit Pistons
+Phoenix Suns-121-112-Milwaukee Bucks
+Portland Trail Blazers-110-105-Philadelphia 76ers
+Capital Bullets-110-85-Buffalo Braves
+Cleveland Cavaliers-99-91-Houston Rockets
+Kansas City~Omaha Kings-101-93-Golden State Warriors
+Boston Celtics-96-95-Seattle Supersonics
+Capital Bullets-102-100-New York Knicks
+Phoenix Suns-135-100-Los Angeles Lakers
+Atlanta Hawks-145-118-Philadelphia 76ers
+Boston Celtics-125-123-Buffalo Braves
+Capital Bullets-82-81-Chicago Bulls
+New York Knicks-96-91-Detroit Pistons
+Houston Rockets-110-95-Kansas City~Omaha Kings
+Milwaukee Bucks-123-110-Cleveland Cavaliers
+Seattle Supersonics-129-105-Los Angeles Lakers
+Kansas City~Omaha Kings-110-100-Cleveland Cavaliers
+Portland Trail Blazers-118-117-Golden State Warriors
+Milwaukee Bucks-129-107-Philadelphia 76ers
+Phoenix Suns-111-100-Seattle Supersonics
+Chicago Bulls-118-94-Atlanta Hawks
+Detroit Pistons-102-93-Capital Bullets
+Milwaukee Bucks-127-111-Houston Rockets
+Los Angeles Lakers-119-107-Phoenix Suns
+Seattle Supersonics-110-93-Portland Trail Blazers
+Atlanta Hawks-114-110-Houston Rockets
+Boston Celtics-111-92-Cleveland Cavaliers
+Kansas City~Omaha Kings-106-102-Capital Bullets
+Chicago Bulls-108-103-Detroit Pistons
+Golden State Warriors-102-100-Los Angeles Lakers
+New York Knicks-112-92-Philadelphia 76ers
+Buffalo Braves-120-108-Phoenix Suns
+Atlanta Hawks-99-94-Cleveland Cavaliers
+New York Knicks-102-85-Kansas City~Omaha Kings
+Los Angeles Lakers-108-105-Buffalo Braves
+Detroit Pistons-98-91-Milwaukee Bucks
+Portland Trail Blazers-99-92-Chicago Bulls
+Seattle Supersonics-96-92-Golden State Warriors
+Boston Celtics-106-97-Philadelphia 76ers
+Styczen
+Chicago Bulls-91-80-Golden State Warriors
+New York Knicks-99-89-Atlanta Hawks
+Buffalo Braves-120-119-Portland Trail Blazers
+Phoenix Suns-116-113-Atlanta Hawks
+New York Knicks-92-81-Capital Bullets
+Detroit Pistons-106-92-Milwaukee Bucks
+Kansas City~Omaha Kings-109-97-Boston Celtics
+Houston Rockets-101-99-Philadelphia 76ers
+Buffalo Braves-115-111-Seattle Supersonics
+Milwaukee Bucks-120-105-Kansas City~Omaha Kings
+Capital Bullets-94-91-Cleveland Cavaliers
+Detroit Pistons-106-101-Boston Celtics
+Kansas City~Omaha Kings-122-97-Phoenix Suns
+Los Angeles Lakers-114-111-Golden State Warriors
+Philadelphia 76ers-78-75-New York Knicks
+Houston Rockets-119-113-Portland Trail Blazers
+Seattle Supersonics-103-101-Chicago Bulls
+Atlanta Hawks-99-86-Cleveland Cavaliers
+Boston Celtics-108-102-Philadelphia 76ers
+Capital Bullets-93-90-Detroit Pistons
+Golden State Warriors-108-106-Houston Rockets
+Milwaukee Bucks-118-109-Phoenix Suns
+Buffalo Braves-111-110-New York Knicks
+Buffalo Braves-117-109-Atlanta Hawks
+Capital Bullets-90-88-Milwaukee Bucks
+Chicago Bulls-120-116-Phoenix Suns
+Los Angeles Lakers-109-105-Kansas City~Omaha Kings
+Portland Trail Blazers-106-105-Golden State Warriors
+Seattle Supersonics-91-90-Houston Rockets
+Buffalo Braves-100-96-Atlanta Hawks
+Capital Bullets-94-92-Los Angeles Lakers
+New York Knicks-108-80-Chicago Bulls
+Golden State Warriors-104-92-Houston Rockets
+Portland Trail Blazers-129-110-Kansas City~Omaha Kings
+Boston Celtics-106-89-Chicago Bulls
+Detroit Pistons-123-94-Los Angeles Lakers
+Philadelphia 76ers-90-86-Cleveland Cavaliers
+Phoenix Suns-105-101-Houston Rockets
+Seattle Supersonics-100-96-Kansas City~Omaha Kings
+Chicago Bulls-116-104-Atlanta Hawks
+Golden State Warriors-125-89-Seattle Supersonics
+Philadelphia 76ers-121-100-Atlanta Hawks
+Los Angeles Lakers-111-103-Boston Celtics
+Buffalo Braves-117-99-Houston Rockets
+Detroit Pistons-106-96-Cleveland Cavaliers
+Milwaukee Bucks-115-113-Capital Bullets
+Kansas City~Omaha Kings-117-100-Phoenix Suns
+New York Knicks-107-98-Seattle Supersonics
+Buffalo Braves-97-96-Capital Bullets
+Milwaukee Bucks-101-82-Chicago Bulls
+Cleveland Cavaliers-117-112-Detroit Pistons
+New York Knicks-96-80-Golden State Warriors
+Los Angeles Lakers-108-101-Philadelphia 76ers
+Boston Celtics-128-105-Atlanta Hawks
+Houston Rockets-121-112-Buffalo Braves
+Cleveland Cavaliers-96-94-Philadelphia 76ers
+Kansas City~Omaha Kings-103-99-Portland Trail Blazers
+Milwaukee Bucks-124-94-Chicago Bulls
+Seattle Supersonics-123-112-Phoenix Suns
+Atlanta Hawks-126-99-Portland Trail Blazers
+Capital Bullets-101-86-Cleveland Cavaliers
+Golden State Warriors-127-120-Phoenix Suns
+Boston Celtics-98-94-Atlanta Hawks
+Buffalo Braves-98-94-Capital Bullets
+Detroit Pistons-113-95-Chicago Bulls
+Houston Rockets-96-90-New York Knicks
+Los Angeles Lakers-116-115-Kansas City~Omaha Kings
+Seattle Supersonics-116-104-Philadelphia 76ers
+Atlanta Hawks-127-109-Seattle Supersonics
+Capital Bullets-117-90-Golden State Warriors
+Kansas City~Omaha Kings-111-108-Cleveland Cavaliers
+Milwaukee Bucks-121-106-Portland Trail Blazers
+Phoenix Suns-112-89-New York Knicks
+Golden State Warriors-123-102-Boston Celtics
+Capital Bullets-111-105-Houston Rockets
+Chicago Bulls-99-97-Portland Trail Blazers
+Detroit Pistons-105-79-Kansas City~Omaha Kings
+Milwaukee Bucks-94-90-Los Angeles Lakers
+Philadelphia 76ers-129-112-Buffalo Braves
+Buffalo Braves-119-109-Philadelphia 76ers
+Chicago Bulls-102-89-Atlanta Hawks
+Golden State Warriors-99-97-Capital Bullets
+Kansas City~Omaha Kings-103-96-Portland Trail Blazers
+Cleveland Cavaliers-111-110-Los Angeles Lakers
+Houston Rockets-108-93-New York Knicks
+Houston Rockets-115-104-Atlanta Hawks
+Seattle Supersonics-98-97-Boston Celtics
+Milwaukee Bucks-114-88-Buffalo Braves
+Detroit Pistons-121-95-Portland Trail Blazers
+Phoenix Suns-110-103-Cleveland Cavaliers
+Boston Celtics-112-97-Philadelphia 76ers
+Kansas City~Omaha Kings-118-113-Buffalo Braves
+Chicago Bulls-104-99-Seattle Supersonics
+Detroit Pistons-93-89-Houston Rockets
+Los Angeles Lakers-143-124-Capital Bullets
+Milwaukee Bucks-112-108-Phoenix Suns
+Cleveland Cavaliers-87-84-Portland Trail Blazers
+Atlanta Hawks-132-122-Buffalo Braves
+Detroit Pistons-94-83-Seattle Supersonics
+Golden State Warriors-106-93-Cleveland Cavaliers
+New York Knicks-122-98-Philadelphia 76ers
+New York Knicks-111-89-Atlanta Hawks
+Boston Celtics-119-98-Kansas City~Omaha Kings
+Chicago Bulls-109-91-Detroit Pistons
+Buffalo Braves-122-108-Houston Rockets
+Los Angeles Lakers-99-92-Milwaukee Bucks
+Phoenix Suns-127-107-Capital Bullets
+Golden State Warriors-128-121-Buffalo Braves
+Cleveland Cavaliers-118-111-Atlanta Hawks
+Seattle Supersonics-115-107-Houston Rockets
+New York Knicks-104-83-Boston Celtics
+Milwaukee Bucks-126-106-Portland Trail Blazers
+Golden State Warriors-129-122-Atlanta Hawks
+Boston Celtics-120-108-Cleveland Cavaliers
+Chicago Bulls-103-94-Capital Bullets
+Detroit Pistons-111-96-Buffalo Braves
+New York Knicks-108-88-Kansas City~Omaha Kings
+Golden State Warriors-109-108-Houston Rockets
+Phoenix Suns-112-100-Portland Trail Blazers
+Luty
+Boston Celtics-106-105-Philadelphia 76ers
+Chicago Bulls-99-88-Kansas City~Omaha Kings
+Capital Bullets-107-99-Cleveland Cavaliers
+Detroit Pistons-96-91-New York Knicks
+Los Angeles Lakers-121-110-Phoenix Suns
+Seattle Supersonics-110-85-Milwaukee Bucks
+Atlanta Hawks-117-107-Houston Rockets
+Golden State Warriors-120-91-Milwaukee Bucks
+New York Knicks-103-87-Cleveland Cavaliers
+Chicago Bulls-105-89-Philadelphia 76ers
+Phoenix Suns-119-112-Los Angeles Lakers
+Portland Trail Blazers-102-97-Seattle Supersonics
+Capital Bullets-112-99-Boston Celtics
+Buffalo Braves-112-98-Philadelphia 76ers
+Chicago Bulls-108-94-Cleveland Cavaliers
+Houston Rockets-123-112-Atlanta Hawks
+Los Angeles Lakers-124-91-Portland Trail Blazers
+Detroit Pistons-114-100-Seattle Supersonics
+Atlanta Hawks-121-103-Capital Bullets
+Chicago Bulls-100-98-Boston Celtics
+Milwaukee Bucks-102-87-Cleveland Cavaliers
+Golden State Warriors-129-113-Seattle Supersonics
+Houston Rockets-116-112-Los Angeles Lakers
+New York Knicks-106-90-Phoenix Suns
+Detroit Pistons-104-102-Portland Trail Blazers
+Atlanta Hawks-107-103-Los Angeles Lakers
+Capital Bullets-109-101-Phoenix Suns
+Chicago Bulls-112-95-Kansas City~Omaha Kings
+Boston Celtics-105-104-Milwaukee Bucks
+Buffalo Braves-114-98-Philadelphia 76ers
+Seattle Supersonics-107-94-Portland Trail Blazers
+Detroit Pistons-110-86-Golden State Warriors
+Philadelphia 76ers-104-84-Atlanta Hawks
+Detroit Pistons-99-94-Phoenix Suns
+Kansas City~Omaha Kings-104-99-Portland Trail Blazers
+Boston Celtics-125-97-New York Knicks
+Buffalo Braves-106-101-Chicago Bulls
+Houston Rockets-120-106-Cleveland Cavaliers
+Milwaukee Bucks-105-96-Capital Bullets
+Atlanta Hawks-99-90-Cleveland Cavaliers
+Capital Bullets-108-75-Philadelphia 76ers
+Kansas City~Omaha Kings-121-120-Golden State Warriors
+Buffalo Braves-103-100-New York Knicks
+Milwaukee Bucks-95-86-Boston Celtics
+Chicago Bulls-96-86-Los Angeles Lakers
+Cleveland Cavaliers-125-121-Buffalo Braves
+Philadelphia 76ers-95-94-Capital Bullets
+Golden State Warriors-121-105-Phoenix Suns
+Houston Rockets-112-106-Portland Trail Blazers
+Seattle Supersonics-119-103-Kansas City~Omaha Kings
+Philadelphia 76ers-116-95-Atlanta Hawks
+New York Knicks-100-93-Buffalo Braves
+Chicago Bulls-93-81-Milwaukee Bucks
+Capital Bullets-107-99-Cleveland Cavaliers
+Detroit Pistons-113-106-Kansas City~Omaha Kings
+Boston Celtics-107-102-Golden State Warriors
+Houston Rockets-129-119-Los Angeles Lakers
+Portland Trail Blazers-113-104-Phoenix Suns
+Capital Bullets-89-87-Kansas City~Omaha Kings
+New York Knicks-89-80-Chicago Bulls
+Buffalo Braves-129-106-Philadelphia 76ers
+Seattle Supersonics-118-100-Boston Celtics
+Milwaukee Bucks-102-99-Detroit Pistons
+Golden State Warriors-121-105-Atlanta Hawks
+Phoenix Suns-107-99-Houston Rockets
+Buffalo Braves-118-116-Detroit Pistons
+Los Angeles Lakers-112-96-Seattle Supersonics
+Chicago Bulls-92-90-Milwaukee Bucks
+Philadelphia 76ers-92-89-Kansas City~Omaha Kings
+Boston Celtics-106-104-Portland Trail Blazers
+Capital Bullets-101-92-Buffalo Braves
+New York Knicks-117-107-Golden State Warriors
+Phoenix Suns-124-123-Atlanta Hawks
+Cleveland Cavaliers-106-101-Portland Trail Blazers
+Capital Bullets-99-95-Boston Celtics
+Golden State Warriors-108-105-Chicago Bulls
+Buffalo Braves-135-118-Houston Rockets
+Atlanta Hawks-113-110-Los Angeles Lakers
+Milwaukee Bucks-97-86-New York Knicks
+Detroit Pistons-118-107-Philadelphia 76ers
+Phoenix Suns-112-100-Portland Trail Blazers
+Seattle Supersonics-106-97-Cleveland Cavaliers
+Boston Celtics-107-97-Detroit Pistons
+Buffalo Braves-145-109-Milwaukee Bucks
+Chicago Bulls-130-96-Phoenix Suns
+Golden State Warriors-104-98-Cleveland Cavaliers
+Kansas City~Omaha Kings-92-86-Los Angeles Lakers
+New York Knicks-119-116-Portland Trail Blazers
+Milwaukee Bucks-110-94-Atlanta Hawks
+Capital Bullets-116-101-Portland Trail Blazers
+Detroit Pistons-112-110-Los Angeles Lakers
+Houston Rockets-115-98-Philadelphia 76ers
+Kansas City~Omaha Kings-116-97-Golden State Warriors
+Buffalo Braves-119-97-New York Knicks
+Golden State Warriors-122-103-Cleveland Cavaliers
+Boston Celtics-116-109-Buffalo Braves
+Chicago Bulls-117-100-Portland Trail Blazers
+New York Knicks-117-110-Cleveland Cavaliers
+Detroit Pistons-84-83-Capital Bullets
+Milwaukee Bucks-122-113-Houston Rockets
+Kansas City~Omaha Kings-119-104-Phoenix Suns
+Los Angeles Lakers-104-103-Philadelphia 76ers
+Cleveland Cavaliers-104-101-Capital Bullets
+Detroit Pistons-119-107-Phoenix Suns
+Golden State Warriors-125-106-Philadelphia 76ers
+New York Knicks-98-90-Atlanta Hawks
+Los Angeles Lakers-118-116-Seattle Supersonics
+Boston Celtics-111-96-Atlanta Hawks
+Capital Bullets-94-84-Detroit Pistons
+Cleveland Cavaliers-101-97-Phoenix Suns
+Houston Rockets-133-115-Portland Trail Blazers
+Milwaukee Bucks-100-93-Kansas City~Omaha Kings
+Los Angeles Lakers-100-90-Chicago Bulls
+Seattle Supersonics-115-105-Philadelphia 76ers
+Los Angeles Lakers-119-112-Buffalo Braves
+Boston Celtics-86-83-Detroit Pistons
+Golden State Warriors-120-100-Phoenix Suns
+Houston Rockets-118-101-Kansas City~Omaha Kings
+New York Knicks-85-71-Capital Bullets
+Philadelphia 76ers-118-110-Portland Trail Blazers
+Kansas City~Omaha Kings-85-76-Atlanta Hawks
+Buffalo Braves-122-104-Boston Celtics
+Capital Bullets-104-100-Seattle Supersonics
+Los Angeles Lakers-110-108-Milwaukee Bucks
+Chicago Bulls-107-95-Phoenix Suns
+Golden State Warriors-129-109-Portland Trail Blazers
+Milwaukee Bucks-113-90-Detroit Pistons
+Marzec
+Atlanta Hawks-105-89-Milwaukee Bucks
+Buffalo Braves-110-94-Boston Celtics
+New York Knicks-112-103-Capital Bullets
+Seattle Supersonics-105-103-Detroit Pistons
+Houston Rockets-117-111-Phoenix Suns
+Los Angeles Lakers-107-100-Kansas City~Omaha Kings
+Cleveland Cavaliers-110-93-Philadelphia 76ers
+Portland Trail Blazers-95-91-Chicago Bulls
+Atlanta Hawks-129-122-Houston Rockets
+Golden State Warriors-103-88-Chicago Bulls
+Milwaukee Bucks-116-99-Seattle Supersonics
+Boston Celtics-104-88-New York Knicks
+Buffalo Braves-103-99-Philadelphia 76ers
+New York Knicks-108-102-Boston Celtics
+Capital Bullets-98-93-Cleveland Cavaliers
+Milwaukee Bucks-112-106-Houston Rockets
+Los Angeles Lakers-108-104-Golden State Warriors
+Phoenix Suns-113-100-Kansas City~Omaha Kings
+Detroit Pistons-99-95-Portland Trail Blazers
+Milwaukee Bucks-109-103-Kansas City~Omaha Kings
+Capital Bullets-103-89-Atlanta Hawks
+Detroit Pistons-95-93-Golden State Warriors
+New York Knicks-111-106-Seattle Supersonics
+Chicago Bulls-111-91-Phoenix Suns
+Portland Trail Blazers-107-102-Los Angeles Lakers
+New York Knicks-96-94-Atlanta Hawks
+Chicago Bulls-105-93-Houston Rockets
+Milwaukee Bucks-111-99-Kansas City~Omaha Kings
+Los Angeles Lakers-116-111-Boston Celtics
+Philadelphia 76ers-112-99-Capital Bullets
+Golden State Warriors-97-95-Milwaukee Bucks
+Boston Celtics-99-97-Phoenix Suns
+Seattle Supersonics-123-117-Buffalo Braves
+Houston Rockets-113-106-Boston Celtics
+Los Angeles Lakers-129-113-Detroit Pistons
+Golden State Warriors-106-96-Philadelphia 76ers
+Atlanta Hawks-106-99-Chicago Bulls
+Capital Bullets-106-103-Portland Trail Blazers
+Kansas City~Omaha Kings-106-96-Seattle Supersonics
+New York Knicks-88-75-Milwaukee Bucks
+Phoenix Suns-109-100-Cleveland Cavaliers
+Detroit Pistons-116-111-Atlanta Hawks
+Boston Celtics-94-82-Los Angeles Lakers
+Buffalo Braves-122-112-Portland Trail Blazers
+Capital Bullets-117-107-Golden State Warriors
+Houston Rockets-113-108-Cleveland Cavaliers
+Philadelphia 76ers-109-108-New York Knicks
+Golden State Warriors-120-108-Detroit Pistons
+Milwaukee Bucks-105-92-Phoenix Suns
+Boston Celtics-110-93-Portland Trail Blazers
+Buffalo Braves-124-94-Phoenix Suns
+Capital Bullets-112-101-Philadelphia 76ers
+Kansas City~Omaha Kings-93-91-Chicago Bulls
+Cleveland Cavaliers-95-84-Atlanta Hawks
+Detroit Pistons-113-108-Golden State Warriors
+Los Angeles Lakers-109-102-New York Knicks
+Boston Celtics-104-97-Phoenix Suns
+Houston Rockets-117-93-Capital Bullets
+Los Angeles Lakers-121-100-Philadelphia 76ers
+New York Knicks-107-95-Golden State Warriors
+Chicago Bulls-114-97-Buffalo Braves
+Cleveland Cavaliers-104-103-Boston Celtics
+Detroit Pistons-93-89-Milwaukee Bucks
+Houston Rockets-114-105-Capital Bullets
+Golden State Warriors-112-107-Los Angeles Lakers
+Philadelphia 76ers-108-101-Phoenix Suns
+Portland Trail Blazers-107-105-New York Knicks
+Atlanta Hawks-126-107-Seattle Supersonics
+Buffalo Braves-114-105-Cleveland Cavaliers
+Golden State Warriors-135-105-Los Angeles Lakers
+Boston Celtics-146-127-Philadelphia 76ers
+Portland Trail Blazers-128-127-Atlanta Hawks
+Boston Celtics-129-103-Capital Bullets
+Milwaukee Bucks-107-82-Chicago Bulls
+Cleveland Cavaliers-115-99-Philadelphia 76ers
+Detroit Pistons-116-109-Buffalo Braves
+Kansas City~Omaha Kings-125-114-Houston Rockets
+Los Angeles Lakers-126-114-New York Knicks
+Phoenix Suns-133-108-Seattle Supersonics
+Kansas City~Omaha Kings-114-105-Portland Trail Blazers
+Chicago Bulls-103-94-Philadelphia 76ers
+Cleveland Cavaliers-107-103-Portland Trail Blazers
+Milwaukee Bucks-111-100-Golden State Warriors
+Boston Celtics-110-107-Houston Rockets
+Atlanta Hawks-99-89-Boston Celtics
+Capital Bullets-101-91-Cleveland Cavaliers
+Detroit Pistons-103-99-Houston Rockets
+Chicago Bulls-87-86-Kansas City~Omaha Kings
+Los Angeles Lakers-120-114-Milwaukee Bucks
+Portland Trail Blazers-113-106-Philadelphia 76ers
+New York Knicks-106-104-Phoenix Suns
+Seattle Supersonics-110-107-Golden State Warriors
+Buffalo Braves-115-102-Golden State Warriors
+Boston Celtics-126-118-Portland Trail Blazers
+Capital Bullets-109-95-Houston Rockets
+Kansas City~Omaha Kings-107-105-Detroit Pistons
+Los Angeles Lakers-99-93-Chicago Bulls
+Atlanta Hawks-107-106-Philadelphia 76ers
+Phoenix Suns-126-119-Buffalo Braves
+Milwaukee Bucks-106-101-Seattle Supersonics
+Atlanta Hawks-119-108-Capital Bullets
+Boston Celtics-108-105-Houston Rockets
+Philadelphia 76ers-97-89-Detroit Pistons
+Seattle Supersonics-139-137-Golden State Warriors
+Kansas City~Omaha Kings-107-106-New York Knicks
+Boston Celtics-109-106-Houston Rockets
+Capital Bullets-120-92-Atlanta Hawks
+Cleveland Cavaliers-114-92-New York Knicks
+Los Angeles Lakers-150-124-Buffalo Braves
+Phoenix Suns-134-121-Golden State Warriors
+Milwaukee Bucks-120-110-Portland Trail Blazers
+Chicago Bulls-122-113-Seattle Supersonics
+Capital Bullets-126-108-Boston Celtics
+Chicago Bulls-104-98-Cleveland Cavaliers
+Detroit Pistons-109-108-Atlanta Hawks
+Golden State Warriors-143-120-Portland Trail Blazers
+Houston Rockets-119-96-Buffalo Braves
+Seattle Supersonics-121-115-Los Angeles Lakers
+Milwaukee Bucks-118-98-Kansas City~Omaha Kings
+New York Knicks-117-90-Philadelphia 76ers
+Philadelphia 76ers-117-108-Boston Celtics
+Portland Trail Blazers-132-122-Golden State Warriors
+Seattle Supersonics-127-123-Phoenix Suns
+Kwiecien
+PlayOffs
+Milwaukee Bucks-99-95-Los Angeles Lakers
+New York Knicks-102-91-Capital Bullets
+Boston Celtics-107-97-Buffalo Braves
+Detroit Pistons-97-88-Chicago Bulls
+Capital Bullets-99-87-New York Knicks
+Milwaukee Bucks-109-90-Los Angeles Lakers
+Chicago Bulls-108-103-Detroit Pistons
+Buffalo Braves-115-105-Boston Celtics
+Los Angeles Lakers-98-96-Milwaukee Bucks
+Capital Bullets-88-79-New York Knicks
+Boston Celtics-120-107-Buffalo Braves
+Milwaukee Bucks-112-90-Los Angeles Lakers
+New York Knicks-101-93-Capital Bullets
+Chicago Bulls-84-83-Detroit Pistons
+Buffalo Braves-104-102-Boston Celtics
+Detroit Pistons-102-87-Chicago Bulls
+Milwaukee Bucks-114-92-Los Angeles Lakers
+New York Knicks-106-105-Capital Bullets
+Boston Celtics-100-97-Buffalo Braves
+Chicago Bulls-98-94-Detroit Pistons
+Capital Bullets-109-92-New York Knicks
+Detroit Pistons-92-88-Chicago Bulls
+Boston Celtics-106-104-Buffalo Braves
+New York Knicks-91-81-Capital Bullets
+Chicago Bulls-96-94-Detroit Pistons
+Boston Celtics-113-88-New York Knicks
+Milwaukee Bucks-101-85-Chicago Bulls
+Boston Celtics-111-99-New York Knicks
+Milwaukee Bucks-113-111-Chicago Bulls
+New York Knicks-103-100-Boston Celtics
+Milwaukee Bucks-113-90-Chicago Bulls
+Boston Celtics-98-91-New York Knicks
+Milwaukee Bucks-115-99-Chicago Bulls
+Boston Celtics-105-94-New York Knicks
+Boston Celtics-98-83-Milwaukee Bucks
+Milwaukee Bucks-105-96-Boston Celtics
+Boston Celtics-95-83-Milwaukee Bucks
+Milwaukee Bucks-97-89-Boston Celtics
+Boston Celtics-96-87-Milwaukee Bucks
+Milwaukee Bucks-102-101-Boston Celtics
+Boston Celtics-102-87-Milwaukee Bucks

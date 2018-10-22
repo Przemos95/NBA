@@ -1,0 +1,55 @@
+Minneapolis Lakers-102-100-Philadelphia Warriors
+Rochester Royals-95-94-St. Louis Hawks
+Syracuse Nationals-111-100-Boston Celtics
+Boston Celtics-119-113-Minneapolis Lakers
+Fort Wayne Pistons-104-97-New York Knicks
+Philadelphia Warriors-102-96-Syracuse Nationals
+Rochester Royals-94-90-Minneapolis Lakers
+St. Louis Hawks-92-86-Fort Wayne Pistons
+Boston Celtics-128-114-Philadelphia Warriors
+Fort Wayne Pistons-103-88-Rochester Royals
+Minneapolis Lakers-113-84-St. Louis Hawks
+New York Knicks-118-111-Syracuse Nationals
+New York Knicks-119-99-Boston Celtics
+St. Louis Hawks-102-97-Philadelphia Warriors
+Boston Celtics-111-98-Syracuse Nationals
+Minneapolis Lakers-98-95-Fort Wayne Pistons
+Philadelphia Warriors-108-87-New York Knicks
+St. Louis Hawks-96-89-Rochester Royals
+Fort Wayne Pistons-100-82-Minneapolis Lakers
+Philadelphia Warriors-142-120-Boston Celtics
+Syracuse Nationals-92-88-St. Louis Hawks
+St. Louis Hawks-103-102-Minneapolis Lakers
+Fort Wayne Pistons-106-103-Boston Celtics
+New York Knicks-104-84-Syracuse Nationals
+Rochester Royals-111-96-Philadelphia Warriors
+St. Louis Hawks-105-97-Minneapolis Lakers
+Minneapolis Lakers-126-98-Rochester Royals
+Syracuse Nationals-99-88-Philadelphia Warriors
+St. Louis Hawks-127-121-Boston Celtics
+New York Knicks-122-96-Fort Wayne Pistons
+Syracuse Nationals-97-92-St. Louis Hawks
+Minneapolis Lakers-102-89-New York Knicks
+Philadelphia Warriors-116-113-St. Louis Hawks
+Boston Celtics-122-103-Syracuse Nationals
+Minneapolis Lakers-100-96-Fort Wayne Pistons
+New York Knicks-115-108-Philadelphia Warriors
+Syracuse Nationals-82-77-New York Knicks
+Minneapolis Lakers-103-97-St. Louis Hawks
+Boston Celtics-110-93-Syracuse Nationals
+St. Louis Hawks-116-115-Minneapolis Lakers
+Minneapolis Lakers-133-75-St. Louis Hawks
+Syracuse Nationals-101-98-Boston Celtics
+Syracuse Nationals-102-97-Boston Celtics
+St. Louis Hawks-116-115-Minneapolis Lakers
+St. Louis Hawks-86-85-Fort Wayne Pistons
+Philadelphia Warriors-109-87-Syracuse Nationals
+St. Louis Hawks-84-74-Fort Wayne Pistons
+Fort Wayne Pistons-107-84-St. Louis Hawks
+Syracuse Nationals-122-118-Philadelphia Warriors
+Philadelphia Warriors-119-96-Syracuse Nationals
+Fort Wayne Pistons-93-84-St. Louis Hawks
+Syracuse Nationals-108-104-Philadelphia Warriors
+Fort Wayne Pistons-102-97-St. Louis Hawks
+Philadelphia Warriors-109-104-Syracuse Nationals
+Philadelphia Warriors-98-94-Fort Wayne Pistons

@@ -1,0 +1,53 @@
+﻿@using NBAMetrics.Web.Models
+@model List<CalculationsViewModel>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+
+<div class="header1">
+    Ranking sezonu @ViewBag.SeasonDisplayName
+</div>
+<div class="col-md-4" style="float:left; font-size: 24px" >
+    <table>
+        <thead>
+            <tr class="well" style="background-color: #07284a; color: white">
+                <td style="padding-right: 10px">Rnk</td>
+                <td><strong>Drużyna</strong></td>
+                <td class="pull-right label label-primary">Punkty</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (CalculationsViewModel team in Model)
+            {
+                <tr class="well" style="background-color: #07284a;">
+                    <td class="pull-right label">
+                        @team.CurrentPosition
+                        @if (team.PreviewPosition == 0)
+                        {
+                            <span>(-)</span>
+                        }
+                        else
+                        {
+                            <span>(@team.PreviewPosition)</span>
+                        }
+                    </td>
+                    <td>@Html.ActionLink(@team.Team.Name, "AllTime", "Teams", new { @id = team.Team.TeamID }, new { style = "color:white; font-weight: bold;" })</td>
+                    <td class="pull-right label label-primary">@team.Points[6]</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div class="col-md-5" style="border: 1px solid white; float:left; background-color: #07284a; color: white; margin: 5px 10px">
+        @Html.ActionLink("Poprzedni sezon", "Index", new { @id = (int)ViewBag.Season - 1 })
+    </div>
+    <div class="col-md-5" style="border: 1px solid white; float:left; background-color: #07284a; color: white; margin: 5px 10px">
+        @Html.ActionLink("Następny sezon", "Index", new { @id = (int)ViewBag.Season + 1 })
+    </div>
+</div>
+
+<div class="col-md-8" style="float:right">
+    <img src=@Href(string.Format("~/Data/Charts/{0}.png", ViewBag.Season)) alt="Błąd odczytu wykresu" />
+</div>
+
+<div style="clear:both"></div>

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBAMetrics.Web", "NBAMetrics.Web\NBAMetrics.Web.csproj", "{34C4CD12-3895-4403-8C33-DE5B2B0E999F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBAMetrics.Core", "NBAMetrics.Core\NBAMetrics.Core.csproj", "{0150C196-56FB-49CE-8DE7-A1A965F35678}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBAMetrics.DataAccess", "NBAMetrics.DataAccess\NBAMetrics.DataAccess.csproj", "{20C8A749-83AA-40C4-B7D4-DA2838B49808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34C4CD12-3895-4403-8C33-DE5B2B0E999F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C4CD12-3895-4403-8C33-DE5B2B0E999F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C4CD12-3895-4403-8C33-DE5B2B0E999F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C4CD12-3895-4403-8C33-DE5B2B0E999F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0150C196-56FB-49CE-8DE7-A1A965F35678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0150C196-56FB-49CE-8DE7-A1A965F35678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0150C196-56FB-49CE-8DE7-A1A965F35678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0150C196-56FB-49CE-8DE7-A1A965F35678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C8A749-83AA-40C4-B7D4-DA2838B49808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C8A749-83AA-40C4-B7D4-DA2838B49808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C8A749-83AA-40C4-B7D4-DA2838B49808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C8A749-83AA-40C4-B7D4-DA2838B49808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

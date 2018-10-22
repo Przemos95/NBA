@@ -1,0 +1,33 @@
+﻿@using NBAMetrics.Web.Models
+@using NBAMetrics.DataAccess
+@using NBAMetrics.Core.Domain.Entities.Enum
+@using NBAMetrics.Web.Helpers
+@model CompareTeamsViewModel
+@{
+    ViewBag.Title = "CompareSelected";
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+
+<div style="text-align: center;">
+    <img style="height: 600px" src=@Href(string.Format("~/Data/Charts/{0}.png", Model.Path)) width="100%" alt="Błąd odczytu wykresu" />
+</div>
+<div>
+        <div style="float: left; text-align: center">
+            <div class="well" style="background-color: white; color:#07284a;">Sezony</div>
+            @foreach (Season season in Enum.GetValues(typeof(Season)))
+            {
+                <div style="background-color: #07284a; color:white;">@Helper.GetSeasonDisplayName(season)</div>
+            }
+        </div>
+    @foreach (KeyValuePair<Teams, int[]> team in Model.Points)
+    {
+        <div style="float: left; text-align: center">
+            <div class="well" style="background-color: white; color:#07284a;">@team.Key.Name</div>
+            @foreach (int pkt in team.Value)
+            {
+                <div style="background-color: #07284a; color:white;">@pkt</div>
+            }
+        </div>
+    }
+    <div style="clear: both"></div>
+</div>

@@ -1,0 +1,242 @@
+﻿@using NBAMetrics.Web.Helpers
+@using NBAMetrics.Core.Domain.Entities.Enum;
+@model NBAMetrics.Web.Models.TeamAllTimePointsViewModel
+
+@{
+        ViewBag.Title = "AllTime";
+        Layout = "~/Views/Shared/_layout.cshtml";
+        Dictionary<Season, int> l40 = new Dictionary<Season, int>();
+        Dictionary<Season, int> l50 = new Dictionary<Season, int>();
+        Dictionary<Season, int> l60 = new Dictionary<Season, int>();
+        Dictionary<Season, int> l70 = new Dictionary<Season, int>();
+        Dictionary<Season, int> l80 = new Dictionary<Season, int>();
+        Dictionary<Season, int> l90 = new Dictionary<Season, int>();
+        Dictionary<Season, int> l00 = new Dictionary<Season, int>();
+        Dictionary<Season, int> l10 = new Dictionary<Season, int>();
+        for (int i = 0; i < Model.Points.Count; i++)
+        {
+            if (Model.Season.ElementAt(i) < Season.s5051) { l40.Add(Model.Season.ElementAt(i), Model.Points.ElementAt(i)); }
+            else if (Model.Season.ElementAt(i) < Season.s6061) { l50.Add(Model.Season.ElementAt(i), Model.Points.ElementAt(i)); }
+        else if (Model.Season.ElementAt(i) < Season.s7071) { l60.Add(Model.Season.ElementAt(i), Model.Points.ElementAt(i)); }
+        else if (Model.Season.ElementAt(i) < Season.s8081) { l70.Add(Model.Season.ElementAt(i), Model.Points.ElementAt(i)); }
+        else if (Model.Season.ElementAt(i) < Season.s9091) { l80.Add(Model.Season.ElementAt(i), Model.Points.ElementAt(i)); }
+        else if (Model.Season.ElementAt(i) < Season.s0001) { l90.Add(Model.Season.ElementAt(i), Model.Points.ElementAt(i)); }
+        else if (Model.Season.ElementAt(i) < Season.s1011) { l00.Add(Model.Season.ElementAt(i), Model.Points.ElementAt(i)); }
+        else { l10.Add(Model.Season.ElementAt(i), Model.Points.ElementAt(i)); }
+    }
+}
+
+
+<div class="header1">
+    Ranking wszech czasów dla drużyny @ViewBag.TeamName
+</div>
+
+<div style="text-align:center;">
+    <img src=@Href(string.Format("~/Data/Charts/{0}/AllTime.png", ViewBag.TeamName)) alt="Błąd odczytu wykresu" />
+</div>
+
+<div style="text-align: center">
+    @* Lata 40s *@
+    @if (l40.Count > 0)
+    {
+        <div style="float:left; font-size: 24px; margin-left:50px">
+            <table>
+                <tr class="well" style="background-color: #07284a; color:white"><td colspan="2"><strong>Lata 1946-49</strong></td><td class="pull-right label label-primary">Punkty</td></tr>
+                @foreach (var item in l40)
+                {
+                    <tr class="well" style="background-color: #07284a">
+                        <td colspan="2">
+                            <a style="color: white" href="/Teams/Index/@ViewBag.TeamID/@item.Key">
+                                <strong>
+                                    @Helper.GetSeasonDisplayName(item.Key)
+                                </strong>
+                            </a>
+                        </td>
+                        <td class="pull-right label label-primary">
+                            @item.Value
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+    }
+
+    @* Lata 50s *@
+    @if (l50.Count > 0)
+    {
+        <div style="float:left; font-size: 24px; margin-left:50px">
+            <table>
+                <tr class="well" style="background-color: #07284a; color:white"><td colspan="2"><strong>Lata 1950-59</strong></td><td class="pull-right label label-primary">Punkty</td></tr>
+                @foreach (var item in l50)
+                {
+                    <tr class="well" style="background-color: #07284a">
+                        <td colspan="2">
+                            <a style="color: white" href="@Url.Action("Index", "Teams", new { id = ViewBag.TeamID, season = item.Key })">
+                                <strong>
+                                    @Helper.GetSeasonDisplayName(item.Key)
+                                </strong>
+                            </a>
+                        </td>
+                        <td class="pull-right label label-primary">
+                            @item.Value
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+    }
+
+    @* Lata 60s *@
+    @if (l60.Count > 0)
+    {
+        <div style="float:left; font-size: 24px; margin-left:50px">
+            <table>
+                <tr class="well" style="background-color: #07284a; color:white"><td colspan="2"><strong>Lata 1960-69</strong></td><td class="pull-right label label-primary">Punkty</td></tr>
+                @foreach (var item in l60)
+                {
+                    <tr class="well" style="background-color: #07284a">
+                        <td colspan="2">
+                            <a style="color: white" href="@Url.Action("Index", "Teams", new { id = ViewBag.TeamID, season = item.Key })">
+                                <strong>
+                                    @Helper.GetSeasonDisplayName(item.Key)
+                                </strong>
+                            </a>
+                        </td>
+                        <td class="pull-right label label-primary">
+                            @item.Value
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+    }
+
+    @* Lata 70s *@
+    @if (l70.Count > 0)
+    {
+        <div style="float:left; font-size: 24px; margin-left:50px">
+            <table>
+                <tr class="well" style="background-color: #07284a; color:white"><td colspan="2"><strong>Lata 1970-79</strong></td><td class="pull-right label label-primary">Punkty</td></tr>
+                @foreach (var item in l70)
+                {
+                    <tr class="well" style="background-color: #07284a">
+                        <td colspan="2">
+                            <a style="color: white" href="@Url.Action("Index", "Teams", new { id = ViewBag.TeamID, season = item.Key })">
+                                <strong>
+                                    @Helper.GetSeasonDisplayName(item.Key)
+                                </strong>
+                            </a>
+                        </td>
+                        <td class="pull-right label label-primary">
+                            @item.Value
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+    }
+
+    @* Lata 80s *@
+    @if (l80.Count > 0)
+    {
+        <div style="float:left; font-size: 24px; margin-left:50px">
+            <table>
+                <tr class="well" style="background-color: #07284a; color:white"><td colspan="2"><strong>Lata 1980-89</strong></td><td class="pull-right label label-primary">Punkty</td></tr>
+                @foreach (var item in l80)
+                {
+                    <tr class="well" style="background-color: #07284a">
+                        <td colspan="2">
+                            <a style="color: white" href="@Url.Action("Index", "Teams", new { id = ViewBag.TeamID, season = item.Key })">
+                                <strong>
+                                    @Helper.GetSeasonDisplayName(item.Key)
+                                </strong>
+                            </a>
+                        </td>
+                        <td class="pull-right label label-primary">
+                            @item.Value
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+    }
+
+    @* Lata 90s *@
+    @if (l90.Count > 0)
+    {
+        <div style="float:left; font-size: 24px; margin-left:50px">
+            <table>
+                <tr class="well" style="background-color: #07284a; color:white"><td colspan="2"><strong>Lata 1990-99</strong></td><td class="pull-right label label-primary">Punkty</td></tr>
+                @foreach (var item in l90)
+                {
+                    <tr class="well" style="background-color: #07284a">
+                        <td colspan="2">
+                            <a style="color: white" href="@Url.Action("Index", "Teams", new { id = ViewBag.TeamID, season = item.Key })">
+                                <strong>
+                                    @Helper.GetSeasonDisplayName(item.Key)
+                                </strong>
+                            </a>
+                        </td>
+                        <td class="pull-right label label-primary">
+                            @item.Value
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+    }
+
+    @* Lata 00s *@
+    @if (l00.Count > 0)
+    {
+        <div style="float:left; font-size: 24px; margin-left:50px">
+            <table>
+                <tr class="well" style="background-color: #07284a; color:white"><td colspan="2"><strong>Lata 2000-10</strong></td><td class="pull-right label label-primary">Punkty</td></tr>
+                @foreach (var item in l00)
+                {
+                    <tr class="well" style="background-color: #07284a">
+                        <td colspan="2">
+                            <a style="color: white" href="@Url.Action("Index", "Teams", new { id = ViewBag.TeamID, season = item.Key })">
+                                <strong>
+                                    @Helper.GetSeasonDisplayName(item.Key)
+                                </strong>
+                            </a>
+                        </td>
+                        <td class="pull-right label label-primary">
+                            @item.Value
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+    }
+
+    @* Lata 10s *@
+    @if (l10.Count > 0)
+    {
+        <div style="float:left; font-size: 24px; margin-left:50px">
+            <table>
+                <tr class="well" style="background-color: #07284a; color:white"><td colspan="2"><strong>Lata 2010-16</strong></td><td class="pull-right label label-primary">Punkty</td></tr>
+                @foreach (var item in l10)
+                {
+                    <tr class="well" style="background-color: #07284a">
+                        <td colspan="2">
+                            <a style="color: white" href="@Url.Action("Index", "Teams", new { id = ViewBag.TeamID, season = item.Key })">
+                                <strong>
+                                    @Helper.GetSeasonDisplayName(item.Key)
+                                </strong>
+                            </a>
+                        </td>
+                        <td class="pull-right label label-primary">
+                            @item.Value
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+    }
+    <div style="clear:both"></div>
+</div>
+
+
+

@@ -1,0 +1,600 @@
+Listopad
+Tri~Cities Blackhawks-93-85-Denver Nuggets
+New York Knicks-89-87-Chicago Stags
+Indianapolis Olympians-71-64-Denver Nuggets
+Rochester Royals-108-75-Sheboygan Red Skins
+St. Louis Bombers-72-51-Tri~Cities Blackhawks
+Minneapolis Lakers-81-69-Philadelphia Warriors
+New York Knicks-68-60-Waterloo Hawks
+Washington Capitols-66-61-Baltimore Bullets
+Anderson Packers-110-87-Tri~Cities Blackhawks
+St. Louis Bombers-81-65-Baltimore Bullets
+Fort Wayne Pistons-87-72-New York Knicks
+Sheboygan Red Skins-98-83-Boston Celtics
+Syracuse Nationals-78-58-Denver Nuggets
+Philadelphia Warriors-79-58-St. Louis Bombers
+Minneapolis Lakers-92-77-Baltimore Bullets
+Chicago Stags-86-70-Boston Celtics
+Syracuse Nationals-84-51-Denver Nuggets
+Rochester Royals-83-53-Philadelphia Warriors
+New York Knicks-76-72-Tri~Cities Blackhawks
+Washington Capitols-81-69-St. Louis Bombers
+Fort Wayne Pistons-87-70-Chicago Stags
+Sheboygan Red Skins-99-93-New York Knicks
+Syracuse Nationals-82-72-Philadelphia Warriors
+Waterloo Hawks-80-66-Boston Celtics
+Anderson Packers-70-62-St. Louis Bombers
+New York Knicks-79-64-Indianapolis Olympians
+Minneapolis Lakers-68-66-Washington Capitols
+Anderson Packers-102-99-Tri~Cities Blackhawks
+Chicago Stags-75-72-Rochester Royals
+Washington Capitols-84-69-Philadelphia Warriors
+Syracuse Nationals-103-73-Indianapolis Olympians
+Waterloo Hawks-80-65-Denver Nuggets
+Washington Capitols-88-72-Baltimore Bullets
+Minneapolis Lakers-98-84-Boston Celtics
+Chicago Stags-64-53-Denver Nuggets
+Fort Wayne Pistons-89-59-Waterloo Hawks
+Indianapolis Olympians-83-79-New York Knicks
+Sheboygan Red Skins-97-87-Rochester Royals
+St. Louis Bombers-73-67-Syracuse Nationals
+Indianapolis Olympians-91-84-Philadelphia Warriors
+Syracuse Nationals-84-69-Anderson Packers
+Baltimore Bullets-82-75-Fort Wayne Pistons
+Chicago Stags-86-79-Minneapolis Lakers
+Philadelphia Warriors-81-63-Denver Nuggets
+Indianapolis Olympians-94-71-St. Louis Bombers
+Rochester Royals-94-73-New York Knicks
+Tri~Cities Blackhawks-99-89-Waterloo Hawks
+Boston Celtics-76-68-Washington Capitols
+Fort Wayne Pistons-90-71-Denver Nuggets
+Sheboygan Red Skins-104-101-Indianapolis Olympians
+Chicago Stags-91-65-St. Louis Bombers
+Syracuse Nationals-80-66-New York Knicks
+Anderson Packers-81-69-Waterloo Hawks
+Baltimore Bullets-81-76-Boston Celtics
+Chicago Stags-77-63-Washington Capitols
+Anderson Packers-83-72-Indianapolis Olympians
+Syracuse Nationals-77-74-New York Knicks
+Rochester Royals-93-81-Tri~Cities Blackhawks
+Chicago Stags-85-72-Fort Wayne Pistons
+Minneapolis Lakers-94-71-St. Louis Bombers
+Philadelphia Warriors-93-80-Boston Celtics
+Sheboygan Red Skins-76-73-Waterloo Hawks
+Washington Capitols-99-90-Denver Nuggets
+Baltimore Bullets-86-71-Denver Nuggets
+Boston Celtics-90-68-Indianapolis Olympians
+Sheboygan Red Skins-97-95-Waterloo Hawks
+St. Louis Bombers-78-65-Minneapolis Lakers
+Syracuse Nationals-79-76-Tri~Cities Blackhawks
+New York Knicks-85-78-Denver Nuggets
+Philadelphia Warriors-103-88-Chicago Stags
+Anderson Packers-83-80-Minneapolis Lakers
+Boston Celtics-91-82-Baltimore Bullets
+Indianapolis Olympians-106-74-Waterloo Hawks
+New York Knicks-85-69-Philadelphia Warriors
+Rochester Royals-96-64-Denver Nuggets
+Fort Wayne Pistons-88-85-Tri~Cities Blackhawks
+Washington Capitols-85-69-Chicago Stags
+Minneapolis Lakers-121-95-Indianapolis Olympians
+Baltimore Bullets-97-92-Sheboygan Red Skins
+St. Louis Bombers-95-74-Rochester Royals
+Syracuse Nationals-102-76-Denver Nuggets
+Waterloo Hawks-75-62-Tri~Cities Blackhawks
+Fort Wayne Pistons-99-89-Boston Celtics
+Boston Celtics-99-85-Anderson Packers
+Syracuse Nationals-77-67-Denver Nuggets
+Indianapolis Olympians-80-74-Rochester Royals
+Tri~Cities Blackhawks-80-72-Boston Celtics
+New York Knicks-89-74-Washington Capitols
+Chicago Stags-92-72-Indianapolis Olympians
+Minneapolis Lakers-84-71-Baltimore Bullets
+New York Knicks-87-67-Washington Capitols
+Rochester Royals-90-71-Waterloo Hawks
+Fort Wayne Pistons-99-85-Boston Celtics
+New York Knicks-75-70-Philadelphia Warriors
+Sheboygan Red Skins-120-113-Tri~Cities Blackhawks
+Baltimore Bullets-65-63-St. Louis Bombers
+Syracuse Nationals-125-123-Anderson Packers
+Minneapolis Lakers-101-81-Denver Nuggets
+Anderson Packers-73-63-St. Louis Bombers
+Chicago Stags-90-54-Philadelphia Warriors
+Indianapolis Olympians-85-59-Sheboygan Red Skins
+New York Knicks-96-84-Boston Celtics
+Rochester Royals-120-95-Waterloo Hawks
+Washington Capitols-93-76-Fort Wayne Pistons
+Denver Nuggets-68-61-Baltimore Bullets
+New York Knicks-77-72-Fort Wayne Pistons
+Chicago Stags-96-82-Minneapolis Lakers
+Anderson Packers-111-91-Sheboygan Red Skins
+St. Louis Bombers-80-67-Philadelphia Warriors
+Syracuse Nationals-80-62-Waterloo Hawks
+Tri~Cities Blackhawks-104-88-Indianapolis Olympians
+Anderson Packers-101-87-Waterloo Hawks
+Philadelphia Warriors-57-56-Denver Nuggets
+Indianapolis Olympians-92-76-Tri~Cities Blackhawks
+Syracuse Nationals-87-71-Boston Celtics
+Chicago Stags-57-50-Baltimore Bullets
+Minneapolis Lakers-102-92-New York Knicks
+St. Louis Bombers-89-82-Tri~Cities Blackhawks
+Waterloo Hawks-95-71-Fort Wayne Pistons
+Rochester Royals-86-84-Washington Capitols
+Grudzien
+Anderson Packers-81-72-Tri~Cities Blackhawks
+Baltimore Bullets-70-64-Rochester Royals
+Fort Wayne Pistons-74-70-Philadelphia Warriors
+Indianapolis Olympians-86-68-Minneapolis Lakers
+Chicago Stags-80-78-Sheboygan Red Skins
+New York Knicks-85-68-St. Louis Bombers
+Denver Nuggets-74-63-Waterloo Hawks
+Rochester Royals-82-79-Philadelphia Warriors
+Minneapolis Lakers-91-80-Chicago Stags
+New York Knicks-85-55-Baltimore Bullets
+Rochester Royals-99-77-Indianapolis Olympians
+St. Louis Bombers-75-72-Sheboygan Red Skins
+Tri~Cities Blackhawks-87-82-Boston Celtics
+Washington Capitols-79-63-Philadelphia Warriors
+Denver Nuggets-86-76-Waterloo Hawks
+Fort Wayne Pistons-72-68-Washington Capitols
+Minneapolis Lakers-95-80-Rochester Royals
+St. Louis Bombers-85-76-Boston Celtics
+Syracuse Nationals-67-61-Indianapolis Olympians
+Anderson Packers-88-81-Sheboygan Red Skins
+Chicago Stags-75-55-Washington Capitols
+Indianapolis Olympians-93-82-Boston Celtics
+Chicago Stags-84-72-Baltimore Bullets
+St. Louis Bombers-76-72-Denver Nuggets
+Minneapolis Lakers-93-76-Washington Capitols
+Syracuse Nationals-77-69-Tri~Cities Blackhawks
+Waterloo Hawks-77-67-Sheboygan Red Skins
+Indianapolis Olympians-72-69-Anderson Packers
+New York Knicks-82-60-Baltimore Bullets
+Boston Celtics-91-87-Philadelphia Warriors
+Fort Wayne Pistons-87-66-Minneapolis Lakers
+Syracuse Nationals-86-72-Sheboygan Red Skins
+Indianapolis Olympians-78-75-Denver Nuggets
+Philadelphia Warriors-80-77-Chicago Stags
+Baltimore Bullets-69-66-St. Louis Bombers
+Boston Celtics-83-78-Sheboygan Red Skins
+Minneapolis Lakers-89-76-Denver Nuggets
+New York Knicks-93-91-Chicago Stags
+Rochester Royals-69-63-Syracuse Nationals
+Washington Capitols-75-69-Fort Wayne Pistons
+Anderson Packers-87-83-Waterloo Hawks
+Fort Wayne Pistons-90-74-Indianapolis Olympians
+Minneapolis Lakers-90-81-Philadelphia Warriors
+Syracuse Nationals-89-72-Sheboygan Red Skins
+Tri~Cities Blackhawks-98-66-Denver Nuggets
+Anderson Packers-105-97-Fort Wayne Pistons
+Chicago Stags-75-65-Philadelphia Warriors
+Rochester Royals-81-65-Denver Nuggets
+Indianapolis Olympians-84-63-Tri~Cities Blackhawks
+New York Knicks-94-84-Minneapolis Lakers
+Syracuse Nationals-96-83-Fort Wayne Pistons
+Tri~Cities Blackhawks-73-68-Chicago Stags
+Philadelphia Warriors-73-70-Waterloo Hawks
+Washington Capitols-79-61-St. Louis Bombers
+Anderson Packers-100-88-Syracuse Nationals
+Baltimore Bullets-87-68-Minneapolis Lakers
+Boston Celtics-83-81-St. Louis Bombers
+Fort Wayne Pistons-69-66-Rochester Royals
+Sheboygan Red Skins-89-74-Tri~Cities Blackhawks
+Waterloo Hawks-77-75-Baltimore Bullets
+Chicago Stags-80-71-Rochester Royals
+Indianapolis Olympians-81-79-Denver Nuggets
+St. Louis Bombers-68-54-Philadelphia Warriors
+New York Knicks-81-76-St. Louis Bombers
+Philadelphia Warriors-81-72-Waterloo Hawks
+Rochester Royals-85-63-Chicago Stags
+Sheboygan Red Skins-110-91-Anderson Packers
+Baltimore Bullets-89-72-Washington Capitols
+Indianapolis Olympians-83-79-Denver Nuggets
+Fort Wayne Pistons-106-95-Baltimore Bullets
+Minneapolis Lakers-77-72-Boston Celtics
+Syracuse Nationals-86-73-Chicago Stags
+Anderson Packers-78-69-Tri~Cities Blackhawks
+New York Knicks-86-83-Anderson Packers
+Chicago Stags-79-77-New York Knicks
+Baltimore Bullets-88-79-Indianapolis Olympians
+Rochester Royals-87-62-Minneapolis Lakers
+Syracuse Nationals-95-70-Waterloo Hawks
+Chicago Stags-78-70-Waterloo Hawks
+Philadelphia Warriors-70-60-Baltimore Bullets
+St. Louis Bombers-75-52-New York Knicks
+Syracuse Nationals-96-84-Tri~Cities Blackhawks
+Minneapolis Lakers-75-61-Washington Capitols
+Anderson Packers-101-84-Waterloo Hawks
+Baltimore Bullets-86-82-Washington Capitols
+Boston Celtics-87-69-Minneapolis Lakers
+Fort Wayne Pistons-87-75-St. Louis Bombers
+Indianapolis Olympians-104-92-Chicago Stags
+Syracuse Nationals-83-74-Sheboygan Red Skins
+New York Knicks-83-72-Denver Nuggets
+Washington Capitols-86-73-Boston Celtics
+Philadelphia Warriors-64-63-Baltimore Bullets
+Sheboygan Red Skins-76-72-Denver Nuggets
+Minneapolis Lakers-72-58-Fort Wayne Pistons
+Rochester Royals-88-79-Boston Celtics
+Washington Capitols-81-68-St. Louis Bombers
+Syracuse Nationals-94-88-Anderson Packers
+Waterloo Hawks-97-93-Indianapolis Olympians
+Anderson Packers-80-73-Washington Capitols
+Boston Celtics-82-57-Baltimore Bullets
+Fort Wayne Pistons-76-74-Chicago Stags
+Rochester Royals-83-80-New York Knicks
+Minneapolis Lakers-78-76-Tri~Cities Blackhawks
+Boston Celtics-97-78-New York Knicks
+Indianapolis Olympians-89-82-Anderson Packers
+Rochester Royals-96-72-Washington Capitols
+Fort Wayne Pistons-81-75-Tri~Cities Blackhawks
+Minneapolis Lakers-88-77-Baltimore Bullets
+New York Knicks-79-72-Philadelphia Warriors
+Chicago Stags-87-80-Waterloo Hawks
+Washington Capitols-87-85-Syracuse Nationals
+Chicago Stags-81-80-Anderson Packers
+Syracuse Nationals-64-62-Philadelphia Warriors
+Rochester Royals-97-79-Fort Wayne Pistons
+Sheboygan Red Skins-94-92-Waterloo Hawks
+St. Louis Bombers-90-63-Baltimore Bullets
+Boston Celtics-92-73-Fort Wayne Pistons
+Tri~Cities Blackhawks-85-83-Denver Nuggets
+Fort Wayne Pistons-65-62-Philadelphia Warriors
+Rochester Royals-87-68-St. Louis Bombers
+Minneapolis Lakers-86-68-Waterloo Hawks
+Washington Capitols-70-64-New York Knicks
+Styczen
+Chicago Stags-92-78-Denver Nuggets
+Fort Wayne Pistons-80-72-Boston Celtics
+Minneapolis Lakers-87-75-Anderson Packers
+New York Knicks-81-59-Philadelphia Warriors
+Indianapolis Olympians-89-75-Sheboygan Red Skins
+St. Louis Bombers-91-79-Waterloo Hawks
+Syracuse Nationals-79-73-Washington Capitols
+Tri~Cities Blackhawks-79-66-Baltimore Bullets
+Anderson Packers-92-75-Baltimore Bullets
+Indianapolis Olympians-78-76-Tri~Cities Blackhawks
+Rochester Royals-83-79-Washington Capitols
+Sheboygan Red Skins-73-69-Waterloo Hawks
+Denver Nuggets-86-82-Anderson Packers
+Minneapolis Lakers-91-75-Fort Wayne Pistons
+St. Louis Bombers-72-68-Boston Celtics
+Rochester Royals-72-63-Washington Capitols
+Baltimore Bullets-74-71-Rochester Royals
+Denver Nuggets-76-69-Anderson Packers
+Fort Wayne Pistons-87-83-St. Louis Bombers
+New York Knicks-82-70-Waterloo Hawks
+Sheboygan Red Skins-85-82-Minneapolis Lakers
+Syracuse Nationals-82-73-Tri~Cities Blackhawks
+Boston Celtics-74-53-Baltimore Bullets
+Philadelphia Warriors-91-73-Rochester Royals
+Indianapolis Olympians-85-61-Baltimore Bullets
+Fort Wayne Pistons-88-80-New York Knicks
+Rochester Royals-85-68-Philadelphia Warriors
+Tri~Cities Blackhawks-98-86-Sheboygan Red Skins
+Washington Capitols-101-83-Waterloo Hawks
+Fort Wayne Pistons-83-69-Sheboygan Red Skins
+Minneapolis Lakers-85-80-Boston Celtics
+Rochester Royals-75-73-St. Louis Bombers
+Syracuse Nationals-84-68-Waterloo Hawks
+Anderson Packers-112-89-Sheboygan Red Skins
+Boston Celtics-97-84-Denver Nuggets
+Indianapolis Olympians-107-77-Sheboygan Red Skins
+Rochester Royals-85-67-Baltimore Bullets
+Waterloo Hawks-86-84-Syracuse Nationals
+Washington Capitols-86-71-Chicago Stags
+Minneapolis Lakers-98-88-Syracuse Nationals
+New York Knicks-73-72-Washington Capitols
+Tri~Cities Blackhawks-88-81-Anderson Packers
+Anderson Packers-80-69-Waterloo Hawks
+Syracuse Nationals-64-62-Fort Wayne Pistons
+Sheboygan Red Skins-115-92-Denver Nuggets
+Minneapolis Lakers-89-73-St. Louis Bombers
+Chicago Stags-77-76-Boston Celtics
+Indianapolis Olympians-80-64-Waterloo Hawks
+Washington Capitols-77-67-Philadelphia Warriors
+Chicago Stags-83-78-Baltimore Bullets
+New York Knicks-82-80-Boston Celtics
+Rochester Royals-83-77-Minneapolis Lakers
+Denver Nuggets-94-80-Sheboygan Red Skins
+Washington Capitols-78-70-Philadelphia Warriors
+Fort Wayne Pistons-81-67-Philadelphia Warriors
+Minneapolis Lakers-85-73-Rochester Royals
+Sheboygan Red Skins-81-76-Anderson Packers
+St. Louis Bombers-89-83-Denver Nuggets
+Syracuse Nationals-82-69-Indianapolis Olympians
+Tri~Cities Blackhawks-84-80-Waterloo Hawks
+Anderson Packers-95-83-Denver Nuggets
+Chicago Stags-78-69-St. Louis Bombers
+Philadelphia Warriors-89-72-Sheboygan Red Skins
+Minneapolis Lakers-105-79-Boston Celtics
+Indianapolis Olympians-101-81-Denver Nuggets
+Philadelphia Warriors-94-86-Boston Celtics
+Fort Wayne Pistons-73-72-Sheboygan Red Skins
+Rochester Royals-70-65-Tri~Cities Blackhawks
+Waterloo Hawks-80-69-St. Louis Bombers
+Minneapolis Lakers-76-68-Washington Capitols
+Rochester Royals-81-78-Anderson Packers
+Washington Capitols-81-68-Baltimore Bullets
+Boston Celtics-86-63-Philadelphia Warriors
+Chicago Stags-83-68-Tri~Cities Blackhawks
+Indianapolis Olympians-104-87-Waterloo Hawks
+Minneapolis Lakers-94-83-New York Knicks
+St. Louis Bombers-74-64-Fort Wayne Pistons
+Syracuse Nationals-107-86-Denver Nuggets
+Philadelphia Warriors-90-89-Minneapolis Lakers
+Baltimore Bullets-68-58-Philadelphia Warriors
+Indianapolis Olympians-112-94-Fort Wayne Pistons
+Rochester Royals-95-79-Anderson Packers
+Waterloo Hawks-88-84-Denver Nuggets
+Sheboygan Red Skins-88-82-Washington Capitols
+Baltimore Bullets-76-69-Sheboygan Red Skins
+Fort Wayne Pistons-82-70-Washington Capitols
+Minneapolis Lakers-103-75-Chicago Stags
+New York Knicks-81-71-Rochester Royals
+St. Louis Bombers-71-47-Boston Celtics
+Anderson Packers-77-75-Syracuse Nationals
+Tri~Cities Blackhawks-111-97-Denver Nuggets
+Tri~Cities Blackhawks-99-96-Anderson Packers
+Minneapolis Lakers-80-68-Chicago Stags
+Indianapolis Olympians-107-69-Waterloo Hawks
+New York Knicks-101-68-Sheboygan Red Skins
+Philadelphia Warriors-87-74-Fort Wayne Pistons
+Rochester Royals-70-56-Baltimore Bullets
+Washington Capitols-75-67-St. Louis Bombers
+Minneapolis Lakers-85-78-St. Louis Bombers
+New York Knicks-96-66-Fort Wayne Pistons
+Washington Capitols-65-62-Tri~Cities Blackhawks
+Waterloo Hawks-104-83-Denver Nuggets
+Anderson Packers-109-75-Denver Nuggets
+New York Knicks-79-77-Baltimore Bullets
+Boston Celtics-89-68-Fort Wayne Pistons
+Washington Capitols-82-71-St. Louis Bombers
+Syracuse Nationals-76-72-Rochester Royals
+Indianapolis Olympians-91-78-Anderson Packers
+Baltimore Bullets-74-71-Philadelphia Warriors
+Baltimore Bullets-77-64-Fort Wayne Pistons
+Philadelphia Warriors-58-55-New York Knicks
+Rochester Royals-82-75-Boston Celtics
+Tri~Cities Blackhawks-97-81-Indianapolis Olympians
+Fort Wayne Pistons-92-70-New York Knicks
+Minneapolis Lakers-88-60-Washington Capitols
+Chicago Stags-66-51-St. Louis Bombers
+Syracuse Nationals-85-70-Sheboygan Red Skins
+Tri~Cities Blackhawks-85-79-Waterloo Hawks
+Anderson Packers-91-74-Sheboygan Red Skins
+Syracuse Nationals-91-75-Indianapolis Olympians
+Rochester Royals-85-72-Boston Celtics
+Fort Wayne Pistons-93-89-Chicago Stags
+Washington Capitols-88-78-Denver Nuggets
+Tri~Cities Blackhawks-83-77-New York Knicks
+Luty
+Chicago Stags-78-76-Boston Celtics
+Minneapolis Lakers-96-81-New York Knicks
+Rochester Royals-82-68-Philadelphia Warriors
+Tri~Cities Blackhawks-91-83-Syracuse Nationals
+Anderson Packers-86-73-Waterloo Hawks
+Baltimore Bullets-79-69-Rochester Royals
+Minneapolis Lakers-79-78-Fort Wayne Pistons
+Syracuse Nationals-73-67-Indianapolis Olympians
+Sheboygan Red Skins-68-65-Washington Capitols
+New York Knicks-87-73-St. Louis Bombers
+Chicago Stags-98-81-Baltimore Bullets
+Boston Celtics-106-98-Anderson Packers
+Philadelphia Warriors-83-72-Tri~Cities Blackhawks
+Syracuse Nationals-103-79-Waterloo Hawks
+Baltimore Bullets-90-70-Anderson Packers
+Boston Celtics-100-82-Waterloo Hawks
+Rochester Royals-82-78-Chicago Stags
+New York Knicks-76-71-Washington Capitols
+Chicago Stags-77-70-Boston Celtics
+Fort Wayne Pistons-95-85-Anderson Packers
+Minneapolis Lakers-100-67-Philadelphia Warriors
+Rochester Royals-73-65-New York Knicks
+St. Louis Bombers-76-64-Indianapolis Olympians
+Syracuse Nationals-96-87-Baltimore Bullets
+Tri~Cities Blackhawks-86-71-Sheboygan Red Skins
+Anderson Packers-77-75-Philadelphia Warriors
+Chicago Stags-91-86-Boston Celtics
+Fort Wayne Pistons-83-67-Denver Nuggets
+Indianapolis Olympians-88-81-Washington Capitols
+Rochester Royals-90-84-St. Louis Bombers
+St. Louis Bombers-84-82-New York Knicks
+Syracuse Nationals-106-81-Sheboygan Red Skins
+Tri~Cities Blackhawks-99-94-Philadelphia Warriors
+Waterloo Hawks-77-70-Washington Capitols
+Baltimore Bullets-79-67-St. Louis Bombers
+Philadelphia Warriors-64-61-Fort Wayne Pistons
+Minneapolis Lakers-71-59-Washington Capitols
+Sheboygan Red Skins-104-82-Tri~Cities Blackhawks
+Boston Celtics-89-79-St. Louis Bombers
+Anderson Packers-107-76-Indianapolis Olympians
+Chicago Stags-83-76-Philadelphia Warriors
+Syracuse Nationals-77-76-Baltimore Bullets
+Denver Nuggets-108-78-Sheboygan Red Skins
+New York Knicks-85-75-Chicago Stags
+Fort Wayne Pistons-92-84-Rochester Royals
+Washington Capitols-81-69-Anderson Packers
+Fort Wayne Pistons-76-74-Rochester Royals
+Minneapolis Lakers-88-70-Boston Celtics
+St. Louis Bombers-86-70-Philadelphia Warriors
+Syracuse Nationals-102-98-Waterloo Hawks
+Indianapolis Olympians-95-89-Tri~Cities Blackhawks
+Anderson Packers-93-80-Waterloo Hawks
+Denver Nuggets-79-67-Sheboygan Red Skins
+Denver Nuggets-84-78-Boston Celtics
+Rochester Royals-83-74-Chicago Stags
+Indianapolis Olympians-86-67-Philadelphia Warriors
+Fort Wayne Pistons-84-78-Boston Celtics
+Minneapolis Lakers-92-70-Rochester Royals
+New York Knicks-80-67-Baltimore Bullets
+Philadelphia Warriors-66-61-Sheboygan Red Skins
+Waterloo Hawks-76-74-Indianapolis Olympians
+Tri~Cities Blackhawks-85-81-Washington Capitols
+Baltimore Bullets-83-77-Fort Wayne Pistons
+Anderson Packers-95-86-Denver Nuggets
+Minneapolis Lakers-72-71-St. Louis Bombers
+Syracuse Nationals-105-74-Tri~Cities Blackhawks
+Rochester Royals-81-73-Boston Celtics
+Minneapolis Lakers-80-74-Waterloo Hawks
+Fort Wayne Pistons-68-67-Philadelphia Warriors
+Philadelphia Warriors-100-73-Baltimore Bullets
+Rochester Royals-94-73-Boston Celtics
+Fort Wayne Pistons-84-80-New York Knicks
+Tri~Cities Blackhawks-116-93-Waterloo Hawks
+Washington Capitols-81-79-Indianapolis Olympians
+Denver Nuggets-86-85-Anderson Packers
+Fort Wayne Pistons-79-71-Baltimore Bullets
+Minneapolis Lakers-96-83-Chicago Stags
+Rochester Royals-105-92-New York Knicks
+St. Louis Bombers-72-65-Sheboygan Red Skins
+Syracuse Nationals-82-78-Indianapolis Olympians
+Waterloo Hawks-84-63-Tri~Cities Blackhawks
+Tri~Cities Blackhawks-82-73-Baltimore Bullets
+Chicago Stags-72-64-Baltimore Bullets
+Denver Nuggets-89-78-Syracuse Nationals
+Sheboygan Red Skins-83-78-Indianapolis Olympians
+New York Knicks-84-73-Philadelphia Warriors
+Rochester Royals-84-76-Washington Capitols
+Minneapolis Lakers-100-57-St. Louis Bombers
+New York Knicks-89-81-Washington Capitols
+Anderson Packers-90-81-Tri~Cities Blackhawks
+Baltimore Bullets-84-77-Waterloo Hawks
+Boston Celtics-82-77-Philadelphia Warriors
+Syracuse Nationals-108-80-Denver Nuggets
+Waterloo Hawks-86-81-Sheboygan Red Skins
+Fort Wayne Pistons-74-72-St. Louis Bombers
+Boston Celtics-89-74-Washington Capitols
+Chicago Stags-77-62-St. Louis Bombers
+Syracuse Nationals-72-67-Indianapolis Olympians
+Baltimore Bullets-77-69-Philadelphia Warriors
+Boston Celtics-82-66-Baltimore Bullets
+New York Knicks-86-79-Chicago Stags
+Rochester Royals-66-64-Minneapolis Lakers
+Tri~Cities Blackhawks-74-66-Sheboygan Red Skins
+Philadelphia Warriors-92-80-Washington Capitols
+Waterloo Hawks-100-76-Denver Nuggets
+Washington Capitols-81-78-Fort Wayne Pistons
+Minneapolis Lakers-80-66-Tri~Cities Blackhawks
+Indianapolis Olympians-107-86-Sheboygan Red Skins
+Rochester Royals-81-79-St. Louis Bombers
+Syracuse Nationals-73-64-Chicago Stags
+Anderson Packers-97-73-Syracuse Nationals
+Chicago Stags-79-77-Boston Celtics
+Tri~Cities Blackhawks-110-75-Denver Nuggets
+Indianapolis Olympians-110-72-Syracuse Nationals
+Minneapolis Lakers-71-65-Fort Wayne Pistons
+Rochester Royals-74-69-Chicago Stags
+Marzec
+Chicago Stags-76-75-Washington Capitols
+Tri~Cities Blackhawks-97-80-Denver Nuggets
+New York Knicks-82-76-Baltimore Bullets
+Philadelphia Warriors-77-64-Boston Celtics
+Fort Wayne Pistons-75-70-St. Louis Bombers
+Syracuse Nationals-93-72-Waterloo Hawks
+Anderson Packers-85-72-Denver Nuggets
+Minneapolis Lakers-88-68-Baltimore Bullets
+New York Knicks-81-72-Boston Celtics
+Fort Wayne Pistons-91-61-St. Louis Bombers
+Sheboygan Red Skins-95-85-Syracuse Nationals
+Washington Capitols-91-88-Chicago Stags
+Tri~Cities Blackhawks-96-83-Indianapolis Olympians
+Philadelphia Warriors-66-61-Minneapolis Lakers
+Baltimore Bullets-77-72-Chicago Stags
+Minneapolis Lakers-84-75-New York Knicks
+Rochester Royals-73-70-Fort Wayne Pistons
+Washington Capitols-95-75-Boston Celtics
+Anderson Packers-89-73-Chicago Stags
+Rochester Royals-65-60-Fort Wayne Pistons
+Indianapolis Olympians-92-87-Sheboygan Red Skins
+St. Louis Bombers-71-67-Philadelphia Warriors
+Syracuse Nationals-84-75-Minneapolis Lakers
+Tri~Cities Blackhawks-91-80-Denver Nuggets
+Anderson Packers-88-77-Tri~Cities Blackhawks
+Boston Celtics-75-64-Washington Capitols
+Indianapolis Olympians-107-93-Anderson Packers
+Minneapolis Lakers-90-73-Sheboygan Red Skins
+Minneapolis Lakers-68-65-Philadelphia Warriors
+New York Knicks-80-78-St. Louis Bombers
+Anderson Packers-82-67-Tri~Cities Blackhawks
+Waterloo Hawks-97-68-Denver Nuggets
+Washington Capitols-88-80-Baltimore Bullets
+Indianapolis Olympians-97-90-Anderson Packers
+Baltimore Bullets-91-79-New York Knicks
+Fort Wayne Pistons-84-71-Chicago Stags
+Rochester Royals-78-59-Boston Celtics
+Sheboygan Red Skins-115-92-Denver Nuggets
+Syracuse Nationals-85-74-St. Louis Bombers
+Washington Capitols-76-66-Boston Celtics
+Philadelphia Warriors-78-73-St. Louis Bombers
+Sheboygan Red Skins-141-104-Denver Nuggets
+Anderson Packers-91-89-New York Knicks
+Baltimore Bullets-79-75-Boston Celtics
+Chicago Stags-90-88-Fort Wayne Pistons
+Rochester Royals-90-72-Philadelphia Warriors
+Tri~Cities Blackhawks-97-79-Sheboygan Red Skins
+Washington Capitols-92-90-St. Louis Bombers
+Chicago Stags-73-67-Philadelphia Warriors
+Fort Wayne Pistons-86-75-Baltimore Bullets
+Indianapolis Olympians-90-89-Waterloo Hawks
+Minneapolis Lakers-87-66-New York Knicks
+Rochester Royals-99-72-St. Louis Bombers
+Syracuse Nationals-96-72-Boston Celtics
+Anderson Packers-98-86-Sheboygan Red Skins
+St. Louis Bombers-86-76-Boston Celtics
+Chicago Stags-85-75-New York Knicks
+Indianapolis Olympians-68-65-Syracuse Nationals
+Minneapolis Lakers-96-62-Baltimore Bullets
+New York Knicks-88-84-Boston Celtics
+Philadelphia Warriors-83-80-Anderson Packers
+Waterloo Hawks-87-69-Sheboygan Red Skins
+Rochester Royals-93-64-Washington Capitols
+Indianapolis Olympians-111-99-Denver Nuggets
+Syracuse Nationals-88-75-Sheboygan Red Skins
+St. Louis Bombers-71-63-Baltimore Bullets
+New York Knicks-98-96-Boston Celtics
+St. Louis Bombers-85-69-Chicago Stags
+Philadelphia Warriors-85-59-Washington Capitols
+Chicago Stags-66-63-Sheboygan Red Skins
+Indianapolis Olympians-110-73-Denver Nuggets
+Rochester Royals-77-74-New York Knicks
+Syracuse Nationals-89-88-Tri~Cities Blackhawks
+Washington Capitols-82-76-Fort Wayne Pistons
+Fort Wayne Pistons-69-67-Minneapolis Lakers
+Rochester Royals-97-66-Baltimore Bullets
+Chicago Stags-80-64-St. Louis Bombers
+Syracuse Nationals-72-67-Anderson Packers
+Waterloo Hawks-79-77-Tri~Cities Blackhawks
+Kwiecien
+PlayOffs
+Fort Wayne Pistons-86-69-Chicago Stags
+Anderson Packers-89-77-Tri~Cities Blackhawks
+Indianapolis Olympians-86-85-Sheboygan Red Skins
+Minneapolis Lakers-78-76-Rochester Royals
+New York Knicks-90-87-Washington Capitols
+Minneapolis Lakers-85-75-Chicago Stags
+New York Knicks-103-83-Washington Capitols
+Syracuse Nationals-93-76-Philadelphia Warriors
+Syracuse Nationals-59-53-Philadelphia Warriors
+Fort Wayne Pistons-90-84-Rochester Royals
+Sheboygan Red Skins-95-85-Indianapolis Olympians
+Tri~Cities Blackhawks-76-75-Anderson Packers
+Anderson Packers-94-71-Tri~Cities Blackhawks
+Fort Wayne Pistons-79-78-Rochester Royals
+Minneapolis Lakers-75-67-Chicago Stags
+Indianapolis Olympians-91-84-Sheboygan Red Skins
+Syracuse Nationals-91-83-New York Knicks
+Minneapolis Lakers-93-79-Fort Wayne Pistons
+Minneapolis Lakers-89-82-Fort Wayne Pistons
+Indianapolis Olympians-77-74-Anderson Packers
+Anderson Packers-84-67-Indianapolis Olympians
+New York Knicks-80-76-Syracuse Nationals
+Anderson Packers-67-65-Indianapolis Olympians
+Syracuse Nationals-91-80-New York Knicks
+Minneapolis Lakers-75-50-Anderson Packers
+Minneapolis Lakers-90-71-Anderson Packers
+Minneapolis Lakers-68-66-Syracuse Nationals
+Syracuse Nationals-91-85-Minneapolis Lakers
+Minneapolis Lakers-91-77-Syracuse Nationals
+Minneapolis Lakers-77-69-Syracuse Nationals
+Syracuse Nationals-83-76-Minneapolis Lakers
+Minneapolis Lakers-110-95-Syracuse Nationals

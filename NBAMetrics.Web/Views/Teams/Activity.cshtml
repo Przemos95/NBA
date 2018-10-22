@@ -1,0 +1,17 @@
+﻿@using NBAMetrics.Core.Domain.Entities.Enum
+@using NBAMetrics.Web.Helpers
+@model Dictionary<Season, bool>
+
+<div style="text-align: center; color: white">
+    <h3>Sezony, w których brała udział dana drużyna:</h3>
+    <ul style="list-style-type: none;  font-size: 30px; column-count: 4" >
+        <li class="well" style="background-color: #07284a; color:white;"><a href="~/Teams/AllTime/@ViewBag.TeamId">Ranking całej historii</a></li>
+        @foreach (KeyValuePair<Season, bool> entry in Model)
+        {
+            if (entry.Value)
+            {
+                <li class="well" style="background-color: #07284a; color:white;"><a href="~/Teams/Index/@ViewBag.TeamId/@entry.Key">@Helper.GetSeasonDisplayName(entry.Key)</a></li>
+            }
+        }
+    </ul>
+</div>

@@ -1,0 +1,63 @@
+Boston Celtics-101-90-Milwaukee Hawks
+New York Knicks-88-86-Syracuse Nationals
+Minneapolis Lakers-91-88-Philadelphia Warriors
+Fort Wayne Pistons-101-96-Rochester Royals
+Fort Wayne Pistons-116-98-Boston Celtics
+Milwaukee Hawks-117-108-Minneapolis Lakers
+Syracuse Nationals-82-78-Rochester Royals
+Philadelphia Warriors-110-91-Milwaukee Hawks
+Boston Celtics-110-102-Rochester Royals
+Milwaukee Hawks-95-88-Minneapolis Lakers
+Fort Wayne Pistons-90-88-New York Knicks
+Philadelphia Warriors-79-73-Syracuse Nationals
+Rochester Royals-97-96-Fort Wayne Pistons
+Minneapolis Lakers-104-102-Milwaukee Hawks
+Syracuse Nationals-89-72-Philadelphia Warriors
+Boston Celtics-95-93-Rochester Royals
+Fort Wayne Pistons-101-85-Milwaukee Hawks
+New York Knicks-97-89-Minneapolis Lakers
+Syracuse Nationals-88-81-Philadelphia Warriors
+Minneapolis Lakers-101-99-Boston Celtics
+Fort Wayne Pistons-92-68-Milwaukee Hawks
+Philadelphia Warriors-86-77-New York Knicks
+Rochester Royals-105-78-Syracuse Nationals
+New York Knicks-98-96-Philadelphia Warriors
+Syracuse Nationals-120-107-Boston Celtics
+Boston Celtics-94-90-Syracuse Nationals
+New York Knicks-97-87-Milwaukee Hawks
+Minneapolis Lakers-91-83-Rochester Royals
+Fort Wayne Pistons-100-99-Boston Celtics
+Milwaukee Hawks-86-74-Rochester Royals
+Minneapolis Lakers-80-73-New York Knicks
+Philadelphia Warriors-96-87-Syracuse Nationals
+Boston Celtics-115-108-Minneapolis Lakers
+Syracuse Nationals-91-82-New York Knicks
+Philadelphia Warriors-99-90-Fort Wayne Pistons
+Rochester Royals-99-97-Minneapolis Lakers
+New York Knicks-88-81-Syracuse Nationals
+Boston Celtics-117-106-Milwaukee Hawks
+Boston Celtics-107-103-Philadelphia Warriors
+New York Knicks-91-85-Milwaukee Hawks
+Minneapolis Lakers-86-83-Syracuse Nationals
+Fort Wayne Pistons-87-86-Rochester Royals
+Fort Wayne Pistons-87-82-Milwaukee Hawks
+New York Knicks-93-81-Boston Celtics
+Rochester Royals-92-79-Philadelphia Warriors
+Syracuse Nationals-108-93-Minneapolis Lakers
+Fort Wayne Pistons-92-82-Philadelphia Warriors
+Boston Celtics-108-99-Milwaukee Hawks
+Minneapolis Lakers-99-91-Philadelphia Warriors
+New York Knicks-109-101-Syracuse Nationals
+Rochester Royals-80-73-Fort Wayne Pistons
+Fort Wayne Pistons-109-96-Philadelphia Warriors
+Minneapolis Lakers-87-82-Boston Celtics
+Syracuse Nationals-97-92-New York Knicks
+Philadelphia Warriors-84-78-New York Knicks
+Syracuse Nationals-84-82-Rochester Royals
+Minneapolis Lakers-129-118-Boston Celtics
+Philadelphia Warriors-72-70-Syracuse Nationals
+Rochester Royals-93-89-New York Knicks
+Fort Wayne Pistons-93-76-Minneapolis Lakers
+Boston Celtics-119-113-Philadelphia Warriors
+Minneapolis Lakers-103-91-Fort Wayne Pistons
+Milwaukee Hawks-89-64-New York Knicks

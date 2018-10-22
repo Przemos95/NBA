@@ -1,0 +1,48 @@
+﻿@using NBAMetrics.Core.Domain.Entities.Enum
+@using NBAMetrics.Web.Helpers
+@model Dictionary<Season, int[]>
+
+
+<div style="text-align: center">
+    <table id="tableHistory" style="font-size: 15px; margin: 10px auto">
+        <tbody>
+            <tr>
+                <td class="well">Sezon</td>
+                <td class="well">Listopad</td>
+                <td class="well">Grudzeiń</td>
+                <td class="well">Styczeń</td>
+                <td class="well">Luty</td>
+                <td class="well">Marzec</td>
+                <td class="well">Kwiecień</td>
+                <td class="well">PlayOff</td>
+            </tr>
+        </tbody>
+        @foreach (Season season in Model.Keys)
+        {
+            <tr>
+                <td class="well">@Helper.GetSeasonDisplayName(season)</td>
+                <td class="well">@Model[season][0]</td>
+                <td class="well">@Model[season][1]</td>
+                <td class="well">@Model[season][2]</td>
+                <td class="well">@Model[season][3]</td>
+                <td class="well">@Model[season][4]</td>
+                <td class="well">@Model[season][5]</td>
+                <td class="well">@Model[season][6]</td>
+            </tr>
+        }
+        <tr style="font-size: 20px;">
+            <td class="well" style="background-color: #07284a; color:white;"><b>Suma</b></td>
+            <td class="well" style="background-color: #07284a; color:white;"><b>@ViewBag.Points[0]</b></td>
+            <td class="well" style="background-color: #07284a; color:white;"><b>@ViewBag.Points[1]</b></td>
+            <td class="well" style="background-color: #07284a; color:white;"><b>@ViewBag.Points[2]</b></td>
+            <td class="well" style="background-color: #07284a; color:white;"><b>@ViewBag.Points[3]</b></td>
+            <td class="well" style="background-color: #07284a; color:white;"><b>@ViewBag.Points[4]</b></td>
+            <td class="well" style="background-color: #07284a; color:white;"><b>@ViewBag.Points[5]</b></td>
+            <td class="well" style="background-color: #07284a; color:white;"><b>@ViewBag.Points[6]</b></td>
+        </tr>
+    </table>
+</div>
+
+<script>
+  
+</script>

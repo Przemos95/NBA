@@ -1,0 +1,11 @@
+﻿@using NBAMetrics.DataAccess;
+@model IEnumerable<Teams>
+
+<ul id="itemsRankingi" class="dropdown-menu" style="column-count: 3">
+    
+@foreach (Teams team in Model)
+{
+    <li><a href="/Teams/AllTime/@team.TeamID">@team.Name</a></li>
+}
+
+</ul>

@@ -1,0 +1,26 @@
+﻿@model NBAMetrics.Web.Models.CalculationsViewModel
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+
+@if (Model.Points == null)
+{
+    <div class="header1">
+        @Model.Team.Name nie uczestniczyła w rozgrywkach w sezonie @ViewBag.SeasonDisplayName
+    </div>
+}
+else
+{
+    <div class="header1">
+        Punkty @Model.Team.Name w sezonie @ViewBag.SeasonDisplayName
+    </div>
+    <div style="text-align: center;">
+            <img style="height: 600px" src=@Href(string.Format("~/Data/Charts/{0}/{1}.png", Model.Team.Name, ViewBag.Season)) width="100%" height="100%" alt="Błąd odczytu wykresu" />
+    </div>
+}
+
+@Html.Action("History", "Teams", new { teamId = Model.Team.TeamID, season = ViewBag.Season, points = Model.Points })
+@Html.Action("Activity", "Teams", new { id = Model.Team.TeamID });
+
